@@ -5,10 +5,10 @@
 -- Modify this code to update the DB schema diagram.
 -- To reset the sample schema, replace everything with
 -- two dots ('..' - without quotes).
-CREATE DATABASE `reef-survey`;
+CREATE DATABASE if not exists `reef-survey`;
 use `reef-survey`;
-CREATE TABLE `Fish` (
-    `FishID` int  NOT NULL ,
+CREATE TABLE if not exists `Fish` (
+    `FishID` int  unsigned NOT NULL auto_increment ,
     `Family`  tinytext NOT NULL ,
     `ScientificName` tinytext  NOT NULL ,
     `CommonName` tinytext  NOT NULL ,
@@ -18,15 +18,15 @@ CREATE TABLE `Fish` (
     )
 );
 
-CREATE TABLE `FishInfo` (
-    `FishID` int  NOT NULL ,
-    `LocationID` int  NOT NULL ,
+CREATE TABLE if not exists `FishInfo` (
+    `FishID` int  unsigned NOT NULL ,
+    `LocationID` int  unsigned NOT NULL ,
     `SurveyIndex` int  NOT NULL ,
     `Count` int  NOT NULL ,
     `Length` int  NOT NULL
 );
 
-CREATE TABLE `Survey` (
+CREATE TABLE if not exists `Survey` (
     `BatchCode` char(16)  NOT NULL ,
     `SurveyIndex` int  NOT NULL ,
     `SurveyDate` date  NOT NULL ,
@@ -36,13 +36,13 @@ CREATE TABLE `Survey` (
     )
 );
 
-CREATE TABLE `Location` (
-    `LocationID` int  NOT NULL ,
+CREATE TABLE if not exists `Location` (
+    `LocationID` int  unsigned NOT NULL auto_increment,
     `Region` tinytext  NOT NULL ,
     `SubRegion` tinytext  NOT NULL ,
     `StudyArea` tinytext  NOT NULL ,
-    `Latitude` tinytext  NOT NULL ,
-    `Longitude` tinytext  NOT NULL ,
+    `Latitude` double(10,5)  NOT NULL ,
+    `Longitude` double(10,5)  NOT NULL ,
     `Management` tinytext  NOT NULL ,
     PRIMARY KEY (
         `LocationID`

@@ -5,12 +5,13 @@
 -- Modify this code to update the DB schema diagram.
 -- To reset the sample schema, replace everything with
 -- two dots ('..' - without quotes).
-CREATE DATABASE `reef-survey`
+CREATE DATABASE `reef-survey`;
+use `reef-survey`;
 CREATE TABLE `Fish` (
     `FishID` int  NOT NULL ,
-    `Family` string  NOT NULL ,
-    `ScientificName` string  NOT NULL ,
-    `CommonName` string  NOT NULL ,
+    `Family`  tinytext NOT NULL ,
+    `ScientificName` tinytext  NOT NULL ,
+    `CommonName` tinytext  NOT NULL ,
     `Trophic` Char(2)  NOT NULL ,
     PRIMARY KEY (
         `FishID`
@@ -37,12 +38,12 @@ CREATE TABLE `Survey` (
 
 CREATE TABLE `Location` (
     `LocationID` int  NOT NULL ,
-    `Region` string  NOT NULL ,
-    `SubRegion` string  NOT NULL ,
-    `StudyArea` string  NOT NULL ,
-    `Latitude` string  NOT NULL ,
-    `Longitude` string  NOT NULL ,
-    `Management` string  NOT NULL ,
+    `Region` tinytext  NOT NULL ,
+    `SubRegion` tinytext  NOT NULL ,
+    `StudyArea` tinytext  NOT NULL ,
+    `Latitude` tinytext  NOT NULL ,
+    `Longitude` tinytext  NOT NULL ,
+    `Management` tinytext  NOT NULL ,
     PRIMARY KEY (
         `LocationID`
     )

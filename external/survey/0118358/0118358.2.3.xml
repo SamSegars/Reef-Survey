@@ -1,0 +1,2060 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accession manifest_version='2'>
+  <head>
+    <id>0118358</id>
+    <version>2.3</version>
+    <timestamp>2014-12-18 20:12:13+00</timestamp>
+    <host>mare</host>
+    <directory>/nodc/archive/arc0071/0118358/2.3/</directory>
+    <file_count>93</file_count>
+    <byte_count>23562643</byte_count>
+  </head>
+  <files>
+    <file>
+      <path>NODC-Readme.txt</path>
+      <digest algorithm='md5'>4ed87de71d73f3bf04f48b23591265ca</digest>
+      <digest algorithm='sha1'>7f0f82e8500dd343d4c7e0ff4f7259d50c297a91</digest>
+      <digest algorithm='sha256'>700575ea312083223095e1c8f7a54a1e7bcfc790146ed4ccb1bbad247a3b6aa3</digest>
+      <digest algorithm='sha384'>c890984f8709860ae0958cee10e489b3aa5d5ddfbfde51da6d500a2609c91fb8724767494200ce974281f2799d256fa3</digest>
+      <digest algorithm='sha512'>c65c6154c459e490bf5842423f38628ceda74e4c8101f32ab88273a0af018433241ca0327b8e1015bca7bed1de9dc12bf216d129cd8b900fb2fb547ac8559aaa</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-r--r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>2816</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2013-12-08 14:53:02+00</modtime>
+      <changetime>2014-12-18 20:12:11+00</changetime>
+      <acctime>2014-12-18 16:45:04+00</acctime>
+      <sumtime>2014-12-18 20:12:13+00</sumtime>
+      <inode>78384024</inode>
+    </file>
+    <file>
+      <path>about</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxrwxr-x</permissions>
+      <linkcount>2</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2014-12-18 16:54:43+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 20:12:13+00</acctime>
+      <sumtime>2014-12-18 20:12:13+00</sumtime>
+      <inode>78644485</inode>
+    </file>
+    <file>
+      <path>about/0-email.txt</path>
+      <digest algorithm='md5'>c2d2b6c5f263a585c0f9e48bc1590724</digest>
+      <digest algorithm='sha1'>1f3e5c9ea0ebbbd1c2a2ca2a31293ea49de35667</digest>
+      <digest algorithm='sha256'>154691742c812ad44aec3665350850a186de745022aac7735e5d0ffc0faef180</digest>
+      <digest algorithm='sha384'>e8cc92e87cf0ff0ed35e2193f35e3449235bbb6166da3a29707e4ae37c8d188986f3dc0b4ff73a4f24039407a5182f0e</digest>
+      <digest algorithm='sha512'>cf5347cc267e230b4a9c87d56d761d606918719e96aa0541a36ed4ea4d48140fee97a007ec71c754a41860ca0503bf7df1a3a40d56e590664ef7f11b3a917e38</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>1317</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2014-12-16 16:26:06+00</modtime>
+      <changetime>2014-12-18 20:12:11+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:14+00</sumtime>
+      <inode>78384027</inode>
+    </file>
+    <file>
+      <path>about/0118358_lonlat.txt</path>
+      <digest algorithm='md5'>ffd7bde1cd741697d9ad589c2039babc</digest>
+      <digest algorithm='sha1'>07199e8231ee9304f74dbf9b055e9c95f690f806</digest>
+      <digest algorithm='sha256'>93f1ab9463004ab5bcca168c8637450d928e17bf27a5de3c52c2bd4b5fbe01cb</digest>
+      <digest algorithm='sha384'>3260b0a2b73c7c41cb87406c7bcb5d142ee952bd4d0e755421285c52bf73e6e979704f73c2397835dc97bb2c5646a3fc</digest>
+      <digest algorithm='sha512'>8b8e53437bedadcee913916c73c3db6d8c4f54aa79add5043096ac7967ca277e239c1379f1b3aceb3b624ff79d12930d091f2fbe4ff26fcf5516ba530612e21a</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>7060</size>
+      <blksize>32768</blksize>
+      <blocks>16</blocks>
+      <modtime>2014-12-16 16:16:20+00</modtime>
+      <changetime>2014-12-18 20:12:11+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:14+00</sumtime>
+      <inode>78384029</inode>
+    </file>
+    <file>
+      <path>about/0118358_map.jpg</path>
+      <digest algorithm='md5'>9623093f30c2f40a46b1e9d8057883cb</digest>
+      <digest algorithm='sha1'>df2e4f2f9525f53cfb2a16a9f8c64de6490d8ca1</digest>
+      <digest algorithm='sha256'>322304e1418ac4adbdbf8587e6dfeadf9b6cbcbd76ed5b083bc18cb7d0319688</digest>
+      <digest algorithm='sha384'>45e10266ff4c72f37fa3edba2b938781262e83af86bf713e789892f486b0547148afab442d04003fc129c0eac81b83d7</digest>
+      <digest algorithm='sha512'>b8bd2680deddee13e340d62fe5109ff2c84d7d396623e4ae2a3487f37e6213fc72dc0647471e140e7f903b4df9282d67eac1773ee9acc323108a4b1d57f3d01c</digest>
+      <type_category>regular</type_category>
+      <type>binary</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>117404</size>
+      <blksize>32768</blksize>
+      <blocks>232</blocks>
+      <modtime>2014-12-16 16:27:51+00</modtime>
+      <changetime>2014-12-18 20:12:11+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:14+00</sumtime>
+      <inode>78384035</inode>
+    </file>
+    <file>
+      <path>about/1-email.txt</path>
+      <digest algorithm='md5'>c073b87c7ab5f0328c381599658e2e3f</digest>
+      <digest algorithm='sha1'>3661c519190b3d041d1a0aafb4bcc72e5af3dd14</digest>
+      <digest algorithm='sha256'>2e4aa415e2a84868ffb02bd1b99c0cadf68ee96941bb1d94a3b7662e8425c503</digest>
+      <digest algorithm='sha384'>d7b446ce8ab31d777e6ed1b00525125ee24cdd6fd6f6b8c1bcb779476290b4abfc9ab7d6be5009774240f89341ef1003</digest>
+      <digest algorithm='sha512'>ed53b48a9704d54f5c37a268a37df6d27182549eaa71839fbacdeec5cab86eabd1de6dcfb788ce0043a94a107c5072356a66552d9f5ca4c63cf1211545e22b3f</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>2</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>1416</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2014-12-17 21:06:54+00</modtime>
+      <changetime>2014-12-18 20:12:11+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:14+00</sumtime>
+      <inode>78644454</inode>
+    </file>
+    <file>
+      <path>about/2-email.txt</path>
+      <digest algorithm='md5'>7e7f2cfe871407a98a81b810c74c6821</digest>
+      <digest algorithm='sha1'>f8dc09cd903892e3e7f76069c3303a114b815d9d</digest>
+      <digest algorithm='sha256'>fc848d1febb3f7b930b5cb6aab1c90706526311d202146de0a9b4c6a08575919</digest>
+      <digest algorithm='sha384'>1dfb0040427921cd25dc3550aaa8202c07fdca1b8362d1214d87cc8ba53edd62f79d5b80c0b88682b2e11522e4f2bdb8</digest>
+      <digest algorithm='sha512'>a22fe8b73002772946da3da178bc2b7ac1abee87283420d5c91d89fa4c3c58119529a103f11f9b4eb277e94cb67395bc74c9c62492a3415aba4c507d0536b838</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>2</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>486</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2014-12-17 21:04:05+00</modtime>
+      <changetime>2014-12-18 20:12:11+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:14+00</sumtime>
+      <inode>78644455</inode>
+    </file>
+    <file>
+      <path>about/journal.txt</path>
+      <digest algorithm='md5'>c06e7a04cc2a5d909f314b101cfa4111</digest>
+      <digest algorithm='sha1'>9bf52f0d76fa33e4fa9edb621de6322cdde6f8f0</digest>
+      <digest algorithm='sha256'>2a546f8cc0fe1ee007fe1fc00805f30cd94b70c3b0c3491e2c97fb8fd5fbc3ed</digest>
+      <digest algorithm='sha384'>1903bc9f14457277e1df35fb249b1da32167b119eea441f45e8b22466c6afdc68f9dbbf1196a096d3af6753fd67bd49c</digest>
+      <digest algorithm='sha512'>787ee3896d8519139a009359be5a18fbbaca085b6d15fa549fa7209a2d130fc20d6bf4071a4e3a98c60bd1aaa6d250799672130bad97fcd1781dd140103a9922</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>2274</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2014-12-18 20:04:13+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 20:12:11+00</acctime>
+      <sumtime>2014-12-18 20:12:14+00</sumtime>
+      <inode>78644489</inode>
+    </file>
+    <file>
+      <path>data</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxrwxr-x</permissions>
+      <linkcount>4</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2014-05-06 18:57:50+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 20:12:13+00</acctime>
+      <sumtime>2014-12-18 20:12:14+00</sumtime>
+      <inode>78644486</inode>
+    </file>
+    <file>
+      <path>data/0-data</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxrwxr-x</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2014-12-16 16:09:14+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 20:12:13+00</acctime>
+      <sumtime>2014-12-18 20:12:14+00</sumtime>
+      <inode>78644487</inode>
+    </file>
+    <file>
+      <path>data/0-data/Book 14 - GULF-FGBS-0900-0600.xls</path>
+      <digest algorithm='md5'>7a2f71faa4cb10be4e3f1cd448e1ff3e</digest>
+      <digest algorithm='sha1'>d3dbde0dd17fb97183dca1f2fe19b77aee20288d</digest>
+      <digest algorithm='sha256'>8b3bb95f0bdfea8a0ffe74e4d8fe2bc9835c833a03a531ed91ad11c4a85ddfcc</digest>
+      <digest algorithm='sha384'>298d0e3700ecd0fb20eb8b392d729597e53fd00944b65f7d2754acf7a740ba1567054cfaa99bea7816755ecd5102ea24</digest>
+      <digest algorithm='sha512'>69380231fb40a215a188512092e46a755e4ef14841d855bccacd41e555f2013de2847dc0bbf6bca9811a12156e1c6f4a82c6193a49514266ee58f44752366c5c</digest>
+      <type_category>regular</type_category>
+      <type>binary</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>2280960</size>
+      <blksize>32768</blksize>
+      <blocks>4456</blocks>
+      <modtime>2014-12-09 17:30:49+00</modtime>
+      <changetime>2014-12-18 20:12:11+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:14+00</sumtime>
+      <inode>78384039</inode>
+    </file>
+    <file>
+      <path>data/0-data/Book 18 - GULF-FGBS-0900-0700.xls</path>
+      <digest algorithm='md5'>5e67a8ba10d2d571da163f687af64042</digest>
+      <digest algorithm='sha1'>e37f41b32e6d453ef2a7bbf577a16969ba8ee1c9</digest>
+      <digest algorithm='sha256'>4e1020f21f4011587475f9c3b451f310ad7c0e29133d9e1a7e0440d8ed785dfd</digest>
+      <digest algorithm='sha384'>a59f537cec203664f2b587d22e621e4487ed0d9048482e9a11014f4db0e6f07446ed1a2606b3ea223be5a8ae25af0de9</digest>
+      <digest algorithm='sha512'>285f1c82a8b55c51b94c711029050258328290859b6a079c077507b12cbbdda188cc69b6e46e5b5b193b7ed8a27ba9030282654165568af997683bb8d440e04f</digest>
+      <type_category>regular</type_category>
+      <type>binary</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>1144320</size>
+      <blksize>32768</blksize>
+      <blocks>2240</blocks>
+      <modtime>2014-12-09 17:30:48+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:14+00</sumtime>
+      <inode>78384040</inode>
+    </file>
+    <file>
+      <path>data/0-data/Book 26 - GULF-FGBS-0900-1000.xls</path>
+      <digest algorithm='md5'>16f484ac2b44457a9b9b11afe88029ad</digest>
+      <digest algorithm='sha1'>ae1564cbfec396882b5e89812c9cdbb172fc157f</digest>
+      <digest algorithm='sha256'>cd68bd1a0c63adf88da3915dfbde3191e6e6b19af90085bec21126b477bae848</digest>
+      <digest algorithm='sha384'>4bb2543e91012f1c13715a26b891fc35dd08b92e97c8c7920a8859cf814091c5cff0ea7f72a9ae30aedac204a70b74ff</digest>
+      <digest algorithm='sha512'>30ad0c2a10f3c154a597ea46d3beb11478ff756097edc5fcd7cdba0cf05674d450fec517ad8c8c0914cc382f32405a4e970017eb663f3b0f47fef7ab28131a51</digest>
+      <type_category>regular</type_category>
+      <type>binary</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>2043904</size>
+      <blksize>32768</blksize>
+      <blocks>3992</blocks>
+      <modtime>2014-12-09 17:30:48+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:14+00</sumtime>
+      <inode>78384041</inode>
+    </file>
+    <file>
+      <path>data/0-data/Book 30 - GULF-FGBS-0800-1100.xls</path>
+      <digest algorithm='md5'>c00c4032f029a58063fc8ff3b211034f</digest>
+      <digest algorithm='sha1'>d902edfcc1733db98754573226ec0de000ea5327</digest>
+      <digest algorithm='sha256'>8be009b9c83ceb2a387148766550498a3ecde4e626813cf4fe341a2d020c1e0b</digest>
+      <digest algorithm='sha384'>62e6bf5419e2f2cc9f16054ba1483cf1fb7a737f652585ff234a2714b396ec41dd3d96cd940039be60710a792b6462c1</digest>
+      <digest algorithm='sha512'>ea5158b523c3aaeaf14fd7560ea42a5a52ca7f0336072a50358ab8b4b25cd2640e182429bc5b9eb1a5364bb6b897f0db1c775f4d8c9143fce80824869e97a209</digest>
+      <type_category>regular</type_category>
+      <type>binary</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>2401792</size>
+      <blksize>32768</blksize>
+      <blocks>4696</blocks>
+      <modtime>2014-12-09 17:30:48+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:14+00</sumtime>
+      <inode>78384042</inode>
+    </file>
+    <file>
+      <path>data/0-data/Book 30 - GULF-FGBT-0809-1100.xls</path>
+      <digest algorithm='md5'>4fcd35e65a36e1cf637f29c9aebbad0a</digest>
+      <digest algorithm='sha1'>3ecf0b73744a79ba32943532a531fa96204b32db</digest>
+      <digest algorithm='sha256'>d2cc7d03b1cd133a9e10a1b5e9d58e81c8efb5bf84ab8c5e8fb0a67f53c6a92c</digest>
+      <digest algorithm='sha384'>7d9c191e6b3f288fe4d07dc219150593f1c1f457ce3160afad6574c2a5be142d9c3b31e04d580b18da45f87e70a550bd</digest>
+      <digest algorithm='sha512'>c9e6181286110327c276a83155a4085003674977e8d7e452ab23d23706c8b4e9334c391c83e0d6115f2bcfb6f15a1072c0284548fefd01892b983ac1c4129a1c</digest>
+      <type_category>regular</type_category>
+      <type>binary</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>1435136</size>
+      <blksize>32768</blksize>
+      <blocks>2808</blocks>
+      <modtime>2014-12-09 17:30:48+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:15+00</sumtime>
+      <inode>78384043</inode>
+    </file>
+    <file>
+      <path>data/0-data/Book 34 - GULF-FGBS-0900-1200.xls</path>
+      <digest algorithm='md5'>3941a2140320d07c638c50a50395e288</digest>
+      <digest algorithm='sha1'>cca579f47dbe6d77c1e4b93350e69b77e3b497f8</digest>
+      <digest algorithm='sha256'>401f025694991da1ac7ede5d607c5c99769d98810c3e0ace4e6da5ec08d1ac22</digest>
+      <digest algorithm='sha384'>6e941e2fba9406833ab382f597a949743fbcbfc6502efcb6f122c706eced104e4bb68ef028badbc95003a2d0ba4a4517</digest>
+      <digest algorithm='sha512'>5e8b6b2093e605554f07b1319084b04ec0744901b3b904eea7e5cddb3cf0549e47490e1444c9cdaee14f4e421a18be60bb4fbd5923505f52716d9987f813056c</digest>
+      <type_category>regular</type_category>
+      <type>binary</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>2464768</size>
+      <blksize>32768</blksize>
+      <blocks>4816</blocks>
+      <modtime>2014-12-09 17:30:48+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:15+00</sumtime>
+      <inode>78384044</inode>
+    </file>
+    <file>
+      <path>data/0-data/Book 34 - GULF-FGBT-1000-1200.xls</path>
+      <digest algorithm='md5'>3af8c42cde8fffdcc0383104dbec53ad</digest>
+      <digest algorithm='sha1'>0ae4a7bb6191495a29ea8677e8681fb24798b391</digest>
+      <digest algorithm='sha256'>ca472790cb131d90f901c53503b3e82e687fa509e9f6f74f4718dc24b7c074cb</digest>
+      <digest algorithm='sha384'>158eaf19d58e12c183c548cf354ca7cd3766396399c1b802a34c44faba4db03d93f058765e078e8d697e8d50452f0033</digest>
+      <digest algorithm='sha512'>c33581f157554504a8e02408e8e25ede00a93f1c464b1c3cfcc084ec6338d154a2162be2ba41c4756068cb51329e03acea50fee2a65298fda80152f32837f03f</digest>
+      <type_category>regular</type_category>
+      <type>binary</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>951808</size>
+      <blksize>32768</blksize>
+      <blocks>1864</blocks>
+      <modtime>2014-12-09 17:30:48+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:15+00</sumtime>
+      <inode>78384045</inode>
+    </file>
+    <file>
+      <path>data/0-data/metadata</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxrwxr-x</permissions>
+      <linkcount>4</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2014-12-18 16:49:57+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 20:12:13+00</acctime>
+      <sumtime>2014-12-18 20:12:15+00</sumtime>
+      <inode>78644490</inode>
+    </file>
+    <file>
+      <path>data/0-data/metadata/txt</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxrwxr-x</permissions>
+      <linkcount>2</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2014-12-18 16:50:27+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 20:12:13+00</acctime>
+      <sumtime>2014-12-18 20:12:15+00</sumtime>
+      <inode>78644491</inode>
+    </file>
+    <file>
+      <path>data/0-data/metadata/txt/FGB_fish_1107.txt</path>
+      <digest algorithm='md5'>e1a30dca68bf3fff09bef0f693153060</digest>
+      <digest algorithm='sha1'>2207804e90afb5e1f83abd0311bc7f3334f9e229</digest>
+      <digest algorithm='sha256'>355e288d8ba9810a839aaab8e09cbc3a054f28bb676080006d152a0d6e3bc9b6</digest>
+      <digest algorithm='sha384'>86f3c2898e28e621d8fed3fa2f7c2d94f1e8f6ae281cd5f6690dfcf967185383775da9fbdc7c6c4a086e4bb8a236fc93</digest>
+      <digest algorithm='sha512'>77ff975013677a15863683bcaa6212b6804fbe3d0e00f1e5d86534143f2b34bc6b6d67b1d478935f17c93e65f2d8b39539dfd8e3c20214f001d2bad112227941</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>17366</size>
+      <blksize>32768</blksize>
+      <blocks>40</blocks>
+      <modtime>2014-12-16 19:29:57+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 20:12:12+00</acctime>
+      <sumtime>2014-12-18 20:12:15+00</sumtime>
+      <inode>78644493</inode>
+    </file>
+    <file>
+      <path>data/0-data/metadata/txt/FGB_habitat_1107.txt</path>
+      <digest algorithm='md5'>cf86e06860d2128678fa12c8a9f8bef1</digest>
+      <digest algorithm='sha1'>547c7f2688346374ac0a8a1cea4bc2c5ef379d52</digest>
+      <digest algorithm='sha256'>b222dc62b343064f8f3e1f65f5a4106f6c2217468b83070489abb09812774dd7</digest>
+      <digest algorithm='sha384'>1e57abe2944b0a26d87eca1312bd1d42c68b3319f7b0efcac4de94cc32d684a45f2c672e68e9f68954dd603346a9c7e7</digest>
+      <digest algorithm='sha512'>3a8791d06e7417d0a2fded62292ce9922012e76ad0bf2d2e8ff957c84777e64744260bc7e552c7d438516f6eb669ccd30b346163e607d4566fe6f98775632335</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>22000</size>
+      <blksize>32768</blksize>
+      <blocks>48</blocks>
+      <modtime>2014-12-16 19:29:57+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 20:12:12+00</acctime>
+      <sumtime>2014-12-18 20:12:15+00</sumtime>
+      <inode>78644497</inode>
+    </file>
+    <file>
+      <path>data/0-data/metadata/txt/fgb_fish_shallow_metadata_20111217.txt</path>
+      <digest algorithm='md5'>ed3d9baad143f23a0c2d867f4bde804c</digest>
+      <digest algorithm='sha1'>10ef0d76ce4e2d3f8e7326530a2c79534c50c077</digest>
+      <digest algorithm='sha256'>da7771e9ac3dccdba064debb8ea51c0463f7b4d2638a9c7ce60c3e4ed0b44657</digest>
+      <digest algorithm='sha384'>7a448589ad98cb676d479d3bb45d3aee83768e27c04eb2ac80be306dd1a438cd7468d8d2693bcd5931f45056abd14e45</digest>
+      <digest algorithm='sha512'>d1a75d16caa31a302f7965d262784d11fe68d3be2aeb4074ca84456e231a863b035e8e6df18c6de8cce6b807c1f04ebccbbdaecff02117db4efd8f2a88abeb8d</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>15817</size>
+      <blksize>32768</blksize>
+      <blocks>32</blocks>
+      <modtime>2014-12-16 19:29:57+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 20:12:12+00</acctime>
+      <sumtime>2014-12-18 20:12:15+00</sumtime>
+      <inode>78644502</inode>
+    </file>
+    <file>
+      <path>data/0-data/metadata/txt/fgb_fish_tech_metadata_20111217.txt</path>
+      <digest algorithm='md5'>3ba401162fe28c8ef2e5110f2d3eb0d3</digest>
+      <digest algorithm='sha1'>2e8988fcebdffac433557816270ce2c7d56248d7</digest>
+      <digest algorithm='sha256'>1770df3dd26457252de6defb8b60c05fbd754755af65dd9ae3d2b704ca42da42</digest>
+      <digest algorithm='sha384'>6188c286e5cbdf0f20fd76a4fd76c9f857e4d8b8683c110bd7d72b9ecbd471c82c74b5930343a60a403a87b607d2e6df</digest>
+      <digest algorithm='sha512'>a38b56aadcdfbe30fbd1c4533e85a32936a2b2e16531616ecaa21306eb5868254d126d7a3efd7093dd4b80ba0e7f1e7b1e2f18b1689bd3afcaba044e3bf63caa</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>15846</size>
+      <blksize>32768</blksize>
+      <blocks>32</blocks>
+      <modtime>2014-12-16 19:29:57+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 20:12:12+00</acctime>
+      <sumtime>2014-12-18 20:12:15+00</sumtime>
+      <inode>78644503</inode>
+    </file>
+    <file>
+      <path>data/0-data/metadata/txt/fgb_habitat_shallow_metadata_20111217.txt</path>
+      <digest algorithm='md5'>e5406912f2135b00e1e6dd5ba6c507ba</digest>
+      <digest algorithm='sha1'>ef76482c8bb2f2615a614fc9ced5adbd14793530</digest>
+      <digest algorithm='sha256'>02f44f80f2e6ed197903308e1879abaed7188da4973bff70b5cfbe9f2700e295</digest>
+      <digest algorithm='sha384'>8df85009afba7a442a01465a2593ca10686dd32dad9753e1756e85d81a7d50bbf979312c02b2d23994ca36222a66cf1c</digest>
+      <digest algorithm='sha512'>4e90cf170241ff8c234837c0db5a8491ff2698085364f8df4250e2d0ee47cd951ba0910de9d0ccdaba0d6a089aa2fcdd6128aa37754667c573300a30e7e6d736</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>19764</size>
+      <blksize>32768</blksize>
+      <blocks>40</blocks>
+      <modtime>2014-12-16 19:29:57+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 20:12:12+00</acctime>
+      <sumtime>2014-12-18 20:12:15+00</sumtime>
+      <inode>78644504</inode>
+    </file>
+    <file>
+      <path>data/0-data/metadata/txt/fgb_habitat_techdiving_metadata_20121217.txt</path>
+      <digest algorithm='md5'>6563ca34fb98a5983ecef4d752995da8</digest>
+      <digest algorithm='sha1'>6543d18b15a22b863e17a3b1145e6a567fbd902e</digest>
+      <digest algorithm='sha256'>41653c9eedc325c8f07e678efabbd620fc5a231cb9a376035aa2cb5c02b0c78a</digest>
+      <digest algorithm='sha384'>5d87d1d39246ff5a747ea3c2d18ace3108881f07a83794487a68240883f8d0ac38dbf3859633a10cfd7091f1e4a9db4e</digest>
+      <digest algorithm='sha512'>6d9f0fd80ad40cc1d82418832dfe11caca95cc25e33912ed2592ef5ea0363f235b38224533d0db4819670b0434c9e7a420122cdf67236d0d4dd84cd1bae8803f</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>19804</size>
+      <blksize>32768</blksize>
+      <blocks>40</blocks>
+      <modtime>2014-12-16 19:29:57+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 20:12:12+00</acctime>
+      <sumtime>2014-12-18 20:12:15+00</sumtime>
+      <inode>78644505</inode>
+    </file>
+    <file>
+      <path>data/0-data/metadata/xml</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxrwxr-x</permissions>
+      <linkcount>2</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2014-12-18 16:50:24+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 20:12:13+00</acctime>
+      <sumtime>2014-12-18 20:12:15+00</sumtime>
+      <inode>78644492</inode>
+    </file>
+    <file>
+      <path>data/0-data/metadata/xml/FGB_fish_1107.xml</path>
+      <digest algorithm='md5'>ef2ad94b4f47dd6e7a7dbad4403932f3</digest>
+      <digest algorithm='sha1'>39d8a18c30126066b8950fb1ad5130aaf9acffea</digest>
+      <digest algorithm='sha256'>f349d8a4fae3e67a0582b1f85a9785506c9f3200ad617fecc2af6db40a7a1cb7</digest>
+      <digest algorithm='sha384'>2a50c0e64afede1daf2b973e930449e0304e7fe01726197f7ba375c25beb4c629adca059933af678d5b8736b25342cd1</digest>
+      <digest algorithm='sha512'>9a2425ff0abc20005472176f696f928425dba81f81ec368ad007573820e302cf276f48eb02ddaf66bff125d1c7e6ef37ff25242b149a3f921d938f5f63899bee</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>16518</size>
+      <blksize>32768</blksize>
+      <blocks>40</blocks>
+      <modtime>2014-12-16 19:29:56+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 20:12:12+00</acctime>
+      <sumtime>2014-12-18 20:12:15+00</sumtime>
+      <inode>78644506</inode>
+    </file>
+    <file>
+      <path>data/0-data/metadata/xml/FGB_habitat_1107.xml</path>
+      <digest algorithm='md5'>91b6da023e702cd31d9b6c74fca71207</digest>
+      <digest algorithm='sha1'>e1f7458b1e430c0b6e6cc9ded7991a972e9d8519</digest>
+      <digest algorithm='sha256'>75e787cbda72987b79d0b14b425e07d9492a0e067a8b8cb3033297c52e054d67</digest>
+      <digest algorithm='sha384'>93b8563b5ee82955a5f76316a07ccf28184f0286730dadb0e9914314878b2c79a0cdcaa65bb4f1318df3c87e8450ebd4</digest>
+      <digest algorithm='sha512'>343a6b929f074b7e613a13bbc244164ca6cb6e3e075f66796ca4116758d42b597107d1c389e060ca5d3b4199669edd8e759e7608810d65ee89c8144b51f92f1c</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>21448</size>
+      <blksize>32768</blksize>
+      <blocks>48</blocks>
+      <modtime>2014-12-16 19:29:56+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 20:12:12+00</acctime>
+      <sumtime>2014-12-18 20:12:15+00</sumtime>
+      <inode>78644507</inode>
+    </file>
+    <file>
+      <path>data/0-data/metadata/xml/fgb_fish_shallow_metadata_20111217.xml</path>
+      <digest algorithm='md5'>b0387bb81dff30c62aadc5d9c58ac248</digest>
+      <digest algorithm='sha1'>735379e53a910600ef5a0fc2b982763d10f670e6</digest>
+      <digest algorithm='sha256'>75b961aa12eede7b74ef2f63bf2aa97f5fcad690fbe9002edf86cbc19b8fb774</digest>
+      <digest algorithm='sha384'>486aa9035f19296d19f8b0dbac710cd843329e7dd2277a32625914256ca68c3d589bec0469383aec5ce35fdb9feea236</digest>
+      <digest algorithm='sha512'>f04f95990f323363508d4ce53588c5503795eaa11288c77b834691e44359e2be222b7a24e14d737c514ad16312298359f7e9a465774e7c46dc02f71ad93b7db7</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>14951</size>
+      <blksize>32768</blksize>
+      <blocks>32</blocks>
+      <modtime>2014-12-16 19:29:56+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 20:12:12+00</acctime>
+      <sumtime>2014-12-18 20:12:15+00</sumtime>
+      <inode>78644508</inode>
+    </file>
+    <file>
+      <path>data/0-data/metadata/xml/fgb_fish_tech_metadata_20111217.xml</path>
+      <digest algorithm='md5'>0012cfb25f5072623fc0f29d90807330</digest>
+      <digest algorithm='sha1'>876db09083ed1ed689995daeba607f5ae7e1b3a9</digest>
+      <digest algorithm='sha256'>01cb8342fcbed4f08ecb5b09cff512759b12756b3e1dc739dc135a3eab7e4b79</digest>
+      <digest algorithm='sha384'>eee5c6b26f1d1b1e0faeede660feafa865e7a22964d36e4a2f4c6a3b3ffde903207ef6468acc495d91f49e6462660683</digest>
+      <digest algorithm='sha512'>d41ec748803c66443411b3b1dec30f87a96e736bf99f341c6091c5e38e770b20b07e3e1b8957b0ecd532aafd1681379e966561024289c6628c2b272bb7fc6591</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>14975</size>
+      <blksize>32768</blksize>
+      <blocks>32</blocks>
+      <modtime>2014-12-16 19:29:56+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 20:12:12+00</acctime>
+      <sumtime>2014-12-18 20:12:15+00</sumtime>
+      <inode>78644509</inode>
+    </file>
+    <file>
+      <path>data/0-data/metadata/xml/fgb_habitat_shallow_metadata_20111217.xml</path>
+      <digest algorithm='md5'>9ce9b74e5ed2a50d57f0573635145c04</digest>
+      <digest algorithm='sha1'>8ef5dccfb809e5a2a3b5f401250ac979587e68c5</digest>
+      <digest algorithm='sha256'>970c9f70e6e02f9196f276626e8bbb15209793e28a5573e7c345ab4c989c353d</digest>
+      <digest algorithm='sha384'>3d3d6ebb4f8ddd216279113cf799fe6f052fa2af54d494e91521621b5dd41943bc8063d6157b5e6ac9f7f7d1549f9136</digest>
+      <digest algorithm='sha512'>810b096b9d0747c04511f52528f1314c758d4b515eea24d67fa6512feca033477b75549571ff6be2a5fe99105c7df322492e80fee138cc620c9af87efda48e56</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>19176</size>
+      <blksize>32768</blksize>
+      <blocks>40</blocks>
+      <modtime>2014-12-16 19:29:56+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 20:12:12+00</acctime>
+      <sumtime>2014-12-18 20:12:15+00</sumtime>
+      <inode>78644510</inode>
+    </file>
+    <file>
+      <path>data/0-data/metadata/xml/fgb_habitat_techdiving_metadata_20121217.xml</path>
+      <digest algorithm='md5'>77329ff16f7254d8ff8a8106348f6599</digest>
+      <digest algorithm='sha1'>ad03c92878878724ab0724a5b1189004d95b59c9</digest>
+      <digest algorithm='sha256'>16ff2040a8ae4953a3e84479691f3eddd1f3637ca9f0fea93e51b972d6b2771f</digest>
+      <digest algorithm='sha384'>a94acb218c7a105bbcf2a1e394f99d634b6c3096b427e505ef35295955377f9c3717d3df736261b281216413e0b734f1</digest>
+      <digest algorithm='sha512'>bc1e15f81a548d8ddda8d3ae5ecd8239b13b07afa6b4908cb2fd0489042225a7781251eb1b06a9d2bd47a2fe2c2272359acc426244cf4679d55a139e6436d5d7</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>1</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>19220</size>
+      <blksize>32768</blksize>
+      <blocks>40</blocks>
+      <modtime>2014-12-16 19:29:56+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 20:12:12+00</acctime>
+      <sumtime>2014-12-18 20:12:15+00</sumtime>
+      <inode>78644511</inode>
+    </file>
+    <file>
+      <path>data/1-data</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxrwxr-x</permissions>
+      <linkcount>9</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2014-12-16 16:14:31+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 20:12:13+00</acctime>
+      <sumtime>2014-12-18 20:12:15+00</sumtime>
+      <inode>78644488</inode>
+    </file>
+    <file>
+      <path>data/1-data/FGBS-0800-1100</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxrwxr-x</permissions>
+      <linkcount>2</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2014-12-16 16:14:31+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 20:12:13+00</acctime>
+      <sumtime>2014-12-18 20:12:15+00</sumtime>
+      <inode>78644494</inode>
+    </file>
+    <file>
+      <path>data/1-data/FGBS-0800-1100/Benthic Abiotic Cover.csv</path>
+      <digest algorithm='md5'>b9c1d6b30e522e330edfd04d7afc3e65</digest>
+      <digest algorithm='sha1'>96334c45bebdea9f539f37df052534b68f03e9e5</digest>
+      <digest algorithm='sha256'>ad6d410ea58a3527c67daf93c4f72c4f49261050692c1dd4b7b5f904823623ed</digest>
+      <digest algorithm='sha384'>89ac860b8dadb2b97c985a2d63773e5085879b43e700f6dca14c7617d2741940b3f5973d8ec4acbdbe0d495a6a644f5d</digest>
+      <digest algorithm='sha512'>027dfe27cc738a0abb122c3f2cb983901a128d7d58fa33298a377299336eaa0682e26a7e0fd284a9350c81ffe532577196b559b2ae907c59fa68edf4c160ed75</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>20392</size>
+      <blksize>32768</blksize>
+      <blocks>40</blocks>
+      <modtime>2014-12-09 17:30:50+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:15+00</sumtime>
+      <inode>78384058</inode>
+    </file>
+    <file>
+      <path>data/1-data/FGBS-0800-1100/Benthic Biotic Cover.csv</path>
+      <digest algorithm='md5'>0d40f72ec2cf577f24d965bac206851a</digest>
+      <digest algorithm='sha1'>adeddffa76d332a6dc6c2031a577824b5dcdd469</digest>
+      <digest algorithm='sha256'>81abf2783a7655614b4a816c8085c4f08666ce39eccfdc75cdd576d2de8b26dd</digest>
+      <digest algorithm='sha384'>aebeb545bbbe646e71423c0c5469140378ee3f3f53a5b0ced29c56628ccc60ec8c7b598e7e9c746c5e9e2393be86a9be</digest>
+      <digest algorithm='sha512'>8263eb566edbbb3fd9462f60d4fcb936ae5bf0c67ef5707f92598e7a872104b49e18d9b3f550d6aefd6a84668bbd1b161912b736ce121b1679e43e710c4f634b</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>159046</size>
+      <blksize>32768</blksize>
+      <blocks>312</blocks>
+      <modtime>2014-12-09 17:30:49+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:15+00</sumtime>
+      <inode>78384059</inode>
+    </file>
+    <file>
+      <path>data/1-data/FGBS-0800-1100/Benthic MacroInverts.csv</path>
+      <digest algorithm='md5'>fe301137fd56835969bf5bc13ca08cc0</digest>
+      <digest algorithm='sha1'>fae1ea61eab68520371356b12eb1291572381b3e</digest>
+      <digest algorithm='sha256'>171671d4019a855d3d2fc2bef00c19e824cfa296bc916ce95f0da4d9ff4ae834</digest>
+      <digest algorithm='sha384'>868f8bcff9f0840badb7279207f5aa7ce735c04f9fedb84c1e106c16e67db541c90b190598025dce49f6e1dbca959768</digest>
+      <digest algorithm='sha512'>5d47fbb735efe36e64825bba9943f467683e11e2ac110f30d666cea2b67ff8a1c555f973e787eed6f4f1cf564d026fa674909e2cfc793b65d6f2f018c86e4b6f</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>1811</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2014-12-09 17:30:49+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:15+00</sumtime>
+      <inode>78384060</inode>
+    </file>
+    <file>
+      <path>data/1-data/FGBS-0800-1100/Fish Abundance.csv</path>
+      <digest algorithm='md5'>13d535fbd64ea8868212d08cf48a852f</digest>
+      <digest algorithm='sha1'>144f767b015f42cd8b213c76c966c640e95c6a34</digest>
+      <digest algorithm='sha256'>46c5e57014d3012edf1c2c281315d284435cc8d3649e405790d770fdc3a9f596</digest>
+      <digest algorithm='sha384'>92b92da7d5e4697382241e153388805c468990cb67b6253a6d3ed7001ae5330444eed4d640e6fbd810d608c23b1d0900</digest>
+      <digest algorithm='sha512'>9af16bcc0a3b99596d734d064de0df4620be144c6db229ec7dc6acaf4b8e8fab760ada1bd56c5dfad394ba1c6a3ae09f20afb81345bc8780c5e488827a17a17f</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>419452</size>
+      <blksize>32768</blksize>
+      <blocks>824</blocks>
+      <modtime>2014-12-09 17:30:49+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:15+00</sumtime>
+      <inode>78384061</inode>
+    </file>
+    <file>
+      <path>data/1-data/FGBS-0800-1100/Fish Biomass.csv</path>
+      <digest algorithm='md5'>0e950be865835579bc9a21f7f5d2f225</digest>
+      <digest algorithm='sha1'>87f3449ee8e9ad9b26ae39f133410ab52a1da841</digest>
+      <digest algorithm='sha256'>9b39a357acb5a01c366a5cdd7c7fb712018eeed3354a26825a4967108f114d8a</digest>
+      <digest algorithm='sha384'>dda6980cba148e6168158a7962f99b818642717d8ae11ad3ec2aa0d6f8a6ba3483c4c1cf50410519ad29e61753b6458d</digest>
+      <digest algorithm='sha512'>9dcf873050a770ad9e6137a36141deb15243058d248f56e0f6effa3aa1fb9b23b6b58f0f64d874f36f7d0dd55519aef3eb859377b9cd263787e4146da2da02f8</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>664636</size>
+      <blksize>32768</blksize>
+      <blocks>1304</blocks>
+      <modtime>2014-12-09 17:30:49+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:15+00</sumtime>
+      <inode>78384062</inode>
+    </file>
+    <file>
+      <path>data/1-data/FGBS-0800-1100/Fish Diversity.csv</path>
+      <digest algorithm='md5'>1a62aaa0e25af08d20ef022174537ec3</digest>
+      <digest algorithm='sha1'>945bb21c4a40200633fc6fe17aa1449575087054</digest>
+      <digest algorithm='sha256'>0a83fbf0b74fbcaed8c68c4f09c367e6f37b28c03bf40dad2a9f554bc0f76937</digest>
+      <digest algorithm='sha384'>e7582982a2d4c2992bcc8caf847d6e23d7fbcd6a12e474a63505cfea54371879f21ae7c4102f80dcc7c025d0b22d62a9</digest>
+      <digest algorithm='sha512'>366284a5502607bd7ce4c47c87fc4548c355151cf74912a9037e89a39fcb8133c95e8dfc2985b185fcaeada84e917607030830dcbd3c773b0e633d9063b3e2af</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>14113</size>
+      <blksize>32768</blksize>
+      <blocks>32</blocks>
+      <modtime>2014-12-09 17:30:49+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:15+00</sumtime>
+      <inode>78384063</inode>
+    </file>
+    <file>
+      <path>data/1-data/FGBS-0800-1100/Fish Dump.csv</path>
+      <digest algorithm='md5'>52ce9898c367ebeb9b183167dc6a4b41</digest>
+      <digest algorithm='sha1'>8d2b7d6dbe78f8aeb83639470160a7b8486b4dd8</digest>
+      <digest algorithm='sha256'>cd08461f059b156ac5add8fa3bd3f99d73c5bfd30eb26ce5a08e7b6e70b23df2</digest>
+      <digest algorithm='sha384'>6c15f1e434a39375816064734dd6ff298dea9701dcd164d93edf43ffb464239c0208352dcb15bdad798eedbf0ba9bd3a</digest>
+      <digest algorithm='sha512'>b2fcd61c9e3114e3bb56577515eec8dbff94595913a8d5f6d50f9fbbf8296de0b4b6e7b6ec66091415336de6f60fb8521f98a3d39757b8df24894cd40ec3774e</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>617990</size>
+      <blksize>32768</blksize>
+      <blocks>1208</blocks>
+      <modtime>2014-12-09 17:30:49+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:15+00</sumtime>
+      <inode>78384064</inode>
+    </file>
+    <file>
+      <path>data/1-data/FGBS-0800-1100/Fish Richness.csv</path>
+      <digest algorithm='md5'>6059c02f4c9917ed8e2240b7065d6ece</digest>
+      <digest algorithm='sha1'>e4d8e3784ca3d238f1c1a8e4e6a0ff8eaca19149</digest>
+      <digest algorithm='sha256'>90bf18eebed42d391c7bbde7f480ada906aa496535d3936a04aff68253d6b3d7</digest>
+      <digest algorithm='sha384'>fdd2430fe80dddf072b0875b36836a1895a8ea3a2bc941e3de5f54872aa5d4b420f8318c246eacebcba321ec5c981af7</digest>
+      <digest algorithm='sha512'>be48f32183f570b4b91056505126d71d13f956485b2658a16fabf16f2b291b5490b8de7dc86d8d2a0b0ec0666d32db242c69d925ae0eaa690a15eb0abae39787</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>13744</size>
+      <blksize>32768</blksize>
+      <blocks>32</blocks>
+      <modtime>2014-12-09 17:30:49+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:15+00</sumtime>
+      <inode>78384065</inode>
+    </file>
+    <file>
+      <path>data/1-data/FGBS-0900-0600</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxrwxr-x</permissions>
+      <linkcount>2</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2014-12-16 16:14:29+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 20:12:13+00</acctime>
+      <sumtime>2014-12-18 20:12:15+00</sumtime>
+      <inode>78644495</inode>
+    </file>
+    <file>
+      <path>data/1-data/FGBS-0900-0600/Benthic Abiotic Cover.csv</path>
+      <digest algorithm='md5'>e6caf4f9927b42bb74a355c18fe0c6c8</digest>
+      <digest algorithm='sha1'>e3e54480b8a5bb600b7f74ca6363d99f976d2779</digest>
+      <digest algorithm='sha256'>69b1a7325f809347a2f2d89bc1f85170bf4d49e24f94dc4f136a57a978bb3a33</digest>
+      <digest algorithm='sha384'>7220f84f5cead41bdd4221cdce91e9cc8d46421fade441d4a4b1dedb6b96d00a69ea5dabbf26d3b23998402e2d8bb581</digest>
+      <digest algorithm='sha512'>67a5c1c6a9436fbdd20ae1baead3f79a2324b7c3b7726d49e44dc1cbd427406f06d6961b7e8628f724227fbf2b0a94d81d29c71897ebbfb0e4395d2542497231</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>23170</size>
+      <blksize>32768</blksize>
+      <blocks>48</blocks>
+      <modtime>2014-12-09 17:30:51+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:15+00</sumtime>
+      <inode>78384066</inode>
+    </file>
+    <file>
+      <path>data/1-data/FGBS-0900-0600/Benthic Biotic Cover.csv</path>
+      <digest algorithm='md5'>42bb663dffbc55ec65d520ec154d5c6e</digest>
+      <digest algorithm='sha1'>ab785de997393b57086b770a84655f91311b09f3</digest>
+      <digest algorithm='sha256'>8d5bf09bc9b6b96a1eff00c9c99dd23cc6a5345ab21a7a089f2dc47c43e171ff</digest>
+      <digest algorithm='sha384'>1ffd15ca276c179484d0ec8f369def7dfdbca007e60e83907b11eb02aeed5189c5c6620d685a41b94e9e6bab067bf018</digest>
+      <digest algorithm='sha512'>a2801309089a894d252f607191278dda7180b1dd209144509a2300c0a9b168a7e08e5677e1e5febbb77a5e6d9baec962e8b27664015fa28046dc5be9d710d29b</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>154505</size>
+      <blksize>32768</blksize>
+      <blocks>304</blocks>
+      <modtime>2014-12-09 17:30:51+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:15+00</sumtime>
+      <inode>78384067</inode>
+    </file>
+    <file>
+      <path>data/1-data/FGBS-0900-0600/Benthic MacroInverts.csv</path>
+      <digest algorithm='md5'>b5ae48f3a98ac6e1d69646cd14130071</digest>
+      <digest algorithm='sha1'>46c6abb9c35db43aaee3b468076820ccec35b81f</digest>
+      <digest algorithm='sha256'>2f10b8517a89a8bec58379837b430b36b7b10b04e811c29c0089d9a5758b2b68</digest>
+      <digest algorithm='sha384'>0af5fe91483fd604d4bf21985d0bfe7cbc35fdda31d27ce9ea2a46efb9c655717ae3c16ebfb0e120e2b49e77b60da8ea</digest>
+      <digest algorithm='sha512'>af45fea32095ef918e52bbd4e4a4d20bd1aef35682c5f2404a2a1b4d2fd65ae0773a2b2b73a0f64cf27d28e1cab20a1629750ca4300f5744b64e0094ebd2fdc8</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>993</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2014-12-09 17:30:51+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:15+00</sumtime>
+      <inode>78384068</inode>
+    </file>
+    <file>
+      <path>data/1-data/FGBS-0900-0600/Fish Abundance.csv</path>
+      <digest algorithm='md5'>7a05e413f93ce33edb43659f578b35bb</digest>
+      <digest algorithm='sha1'>d98b1271c94ca0a995bf00edd959883bf8b47d1d</digest>
+      <digest algorithm='sha256'>1c100c7330f9db17531879f2bf4f635a902117a16bd57ac4c6f1ceb93fef61a3</digest>
+      <digest algorithm='sha384'>34a9ac2bb11c4591e1364a02ade89bead7aefeda37ae15a9cefd529a45a8f0f574d82e997d36ef974717eda31c6a64f7</digest>
+      <digest algorithm='sha512'>6ecd8eea1581b6101061c34c7bc3ebe9490462bcb833babd8a8fbeeeadc6500e888cd2c7a4b6777cfc81265d2a660166ad2c9ae671b776e5c2808435c3ac5b43</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>402883</size>
+      <blksize>32768</blksize>
+      <blocks>792</blocks>
+      <modtime>2014-12-09 17:30:51+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:15+00</sumtime>
+      <inode>78384069</inode>
+    </file>
+    <file>
+      <path>data/1-data/FGBS-0900-0600/Fish Biomass.csv</path>
+      <digest algorithm='md5'>d09677339cf20e7cc3f7cb6b1a64db3e</digest>
+      <digest algorithm='sha1'>c7ca723a1e31072866b1c471a9039b74a2c8b37c</digest>
+      <digest algorithm='sha256'>58ded8d8ed83f01165ad22060021088f7096835c1ca3975c732b0ae110cd3fbe</digest>
+      <digest algorithm='sha384'>7082a70538c3ccf8ca8581a2c7cbed0e2a476b1451357bc3413e7b26d230e91e4331e47489ea72a22c4c3f4920e081af</digest>
+      <digest algorithm='sha512'>5dc92f4aaad77174697b9b33c1747e6fcf115cc1d2637b35dcceff18e8d2fefc7749e597c6fc4cfd501e9a1ec106a3a7cb939e4b1da6608b02e8496b5c1de999</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>653990</size>
+      <blksize>32768</blksize>
+      <blocks>1280</blocks>
+      <modtime>2014-12-09 17:30:51+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:15+00</sumtime>
+      <inode>78384070</inode>
+    </file>
+    <file>
+      <path>data/1-data/FGBS-0900-0600/Fish Diversity.csv</path>
+      <digest algorithm='md5'>62700a6dc9ba83ef992a5ebc2ef95bbf</digest>
+      <digest algorithm='sha1'>d06b4f4f97e1bfe282597d5cdbea47b94ef8b1ce</digest>
+      <digest algorithm='sha256'>9be5a99c43d028c4a30b0f99569b65fdadbd291c3b8f286fc95206560605bff9</digest>
+      <digest algorithm='sha384'>518662a501c981c0b8956471f6bafdc1bf4dfba2e63b379a750d94e55a3893bca317bf783a9f95ec009ccfb4b32bfeb9</digest>
+      <digest algorithm='sha512'>d33cfb45ade75e025254db8732d91c2cabc1c6d0537ee04bd06b9c8739b13c2e15c570da2b296066a6a3051c8f1f4a1e18eac8eadae561999750919ce2bfe9bb</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>13193</size>
+      <blksize>32768</blksize>
+      <blocks>32</blocks>
+      <modtime>2014-12-09 17:30:51+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:15+00</sumtime>
+      <inode>78384071</inode>
+    </file>
+    <file>
+      <path>data/1-data/FGBS-0900-0600/Fish Richness.csv</path>
+      <digest algorithm='md5'>e4747d944e26bf8e2fa0b519383937b2</digest>
+      <digest algorithm='sha1'>ac01c0a4d687676cf5a2758a831fca9fdb1bb850</digest>
+      <digest algorithm='sha256'>893028fdf27bec1efb2245e9d7f9be62ab60a8f5f31a2d33ea54e15d1bcb4fa6</digest>
+      <digest algorithm='sha384'>823f2fe059669618a68d1650d71b5caa5588d875e1fd8327c88ac9f0c802b5bc4b1ad97521c9eb164f24445bd362270f</digest>
+      <digest algorithm='sha512'>cd469604d13b136f096d52743bcb9ffcbe550e0dc50af93bc0d25c6bbbbbfa040f04455cf660826f91da8e14a80f5b3b48e4394b208d069486056c3bc813b5d2</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>12837</size>
+      <blksize>32768</blksize>
+      <blocks>32</blocks>
+      <modtime>2014-12-09 17:30:51+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:15+00</sumtime>
+      <inode>78384072</inode>
+    </file>
+    <file>
+      <path>data/1-data/FGBS-0900-0600/Fish dump.csv</path>
+      <digest algorithm='md5'>e4b148256b151d87dedd59db1fddab0d</digest>
+      <digest algorithm='sha1'>b08adb545c95c0291258afe55089a2a406d83d49</digest>
+      <digest algorithm='sha256'>15818aa1a2cb3745ec29989bb6f28d764317f54ae78aadb20992463dd2c3092e</digest>
+      <digest algorithm='sha384'>f4b2abf690bab39b338414062a952f08723bea6d3dbdd6d7bf0d6bc23ac8869f3cf2dbf98ac824c486d129c7d06d7c50</digest>
+      <digest algorithm='sha512'>0a48dfa970047b30255e0ed262b9cd9beb77949d9a1363c559a70f4f3e09220c7a8d932dd353ff997355f12af4c22c196dd586e11df6ce7953a0f7b17963082b</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>609406</size>
+      <blksize>32768</blksize>
+      <blocks>1192</blocks>
+      <modtime>2014-12-09 17:30:51+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:15+00</sumtime>
+      <inode>78384073</inode>
+    </file>
+    <file>
+      <path>data/1-data/FGBS-0900-0700</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxrwxr-x</permissions>
+      <linkcount>2</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2014-12-16 16:14:30+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 20:12:13+00</acctime>
+      <sumtime>2014-12-18 20:12:15+00</sumtime>
+      <inode>78644496</inode>
+    </file>
+    <file>
+      <path>data/1-data/FGBS-0900-0700/Benthic Abiotic Cover.csv</path>
+      <digest algorithm='md5'>a24cdd4c3f59b95c03aa748b2d4dce5d</digest>
+      <digest algorithm='sha1'>7292cf8adb3baf272fed189cf71e6abba20ff3c5</digest>
+      <digest algorithm='sha256'>daeff33d2f0033810b56ee5039196ea55af635bb872b8fa8b91abbec2b500dbd</digest>
+      <digest algorithm='sha384'>7cc81c2ff42547b94804c1cf87dc226192bd6036a7d09babc93d4cd1debb61f472c66fe0aac8328b22a3030c53e89cdd</digest>
+      <digest algorithm='sha512'>5760ef1f9e02414e6bdc14ba6f0dd67a395159da5969aad761e9bb74a75f59e490229abdf21ee575d9cea9344d88e008a664af62b62a1583a72e7ae0f4fa8338</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>14122</size>
+      <blksize>32768</blksize>
+      <blocks>32</blocks>
+      <modtime>2014-12-09 17:30:49+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:15+00</sumtime>
+      <inode>78384074</inode>
+    </file>
+    <file>
+      <path>data/1-data/FGBS-0900-0700/Benthic Biotic Cover.csv</path>
+      <digest algorithm='md5'>efa2c33c4e1242958d161b555f1b95c3</digest>
+      <digest algorithm='sha1'>fdaedf6555a7032ec258c80c5290ffdbf19a1117</digest>
+      <digest algorithm='sha256'>2d0de7ef951d53f6ba21af1ce659d95dc2ca6502f699e9a5cbf5f58ef95c5a55</digest>
+      <digest algorithm='sha384'>3eb686c8c48856774d42ba693b7b0e729efd272d81bc9c3d693be7d628b3e20cf7de23c1d859e36257cc98925465c4ad</digest>
+      <digest algorithm='sha512'>3226b8273403fb7b8ea16ee76bb6524d39f2d165b2b28376be1a685424cd5641c6f56b994fb34e2bf7ac680e6d1e90531f3f3e6496ff2fd6b7ce782f90b76efa</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>70088</size>
+      <blksize>32768</blksize>
+      <blocks>144</blocks>
+      <modtime>2014-12-09 17:30:49+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:15+00</sumtime>
+      <inode>78384075</inode>
+    </file>
+    <file>
+      <path>data/1-data/FGBS-0900-0700/Fish Abundance.csv</path>
+      <digest algorithm='md5'>7aa6fe87d401945c77488ba2b4d785e6</digest>
+      <digest algorithm='sha1'>2cc7f51fc153ae236da0370f4c37fded7968cdd1</digest>
+      <digest algorithm='sha256'>27a4e5c346c4b551f1786e8e1b22defc5c419d38c0b631e55cf6326b42577c98</digest>
+      <digest algorithm='sha384'>c0457f97efea82a6f95d768735938fddadc80a9bf6c8ef1a3cd66b85f59e144d09accf93d2c76968a0aff5e02d0c6ad9</digest>
+      <digest algorithm='sha512'>182c1ab8fdf5c5f37b2ef02cdde87f899ed253d162aa9e4b71b98ade10e5a7f5ecd698df5896e69e3542d509ac08e61da19d4c49a8f450d24a25bac45c251f09</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>190109</size>
+      <blksize>32768</blksize>
+      <blocks>376</blocks>
+      <modtime>2014-12-09 17:30:49+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:15+00</sumtime>
+      <inode>78384076</inode>
+    </file>
+    <file>
+      <path>data/1-data/FGBS-0900-0700/Fish Biomass.csv</path>
+      <digest algorithm='md5'>916ee70f00a48f0b9f86b7ff17a15746</digest>
+      <digest algorithm='sha1'>70d008952cd6857e326684d2daaab7d309452ff0</digest>
+      <digest algorithm='sha256'>4f739b113a5e8db290f7c6173351a96fdedbe74119b596ffb13cce099c5ffa2d</digest>
+      <digest algorithm='sha384'>559a96267a4ba5379425bc3e0ae83b3450c44b1695d94453757037526a60c7f829b61f7c8e558c88ec491824f09a8a92</digest>
+      <digest algorithm='sha512'>7182223f565b71e7ee863f1c1743524faa9b67318d1f104a877d130f14587d4f9f3f2cf43246cbbf083caef804fb5279b43138d1d8850581aed6aa3cff476b7d</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>584335</size>
+      <blksize>32768</blksize>
+      <blocks>1144</blocks>
+      <modtime>2014-12-09 17:30:49+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:15+00</sumtime>
+      <inode>78384077</inode>
+    </file>
+    <file>
+      <path>data/1-data/FGBS-0900-0700/Fish Diversity.csv</path>
+      <digest algorithm='md5'>8145ff15095cb2e0d8f95dc68d3c35b8</digest>
+      <digest algorithm='sha1'>b0f707d8e00e9959c035560f797ec269c17f6e09</digest>
+      <digest algorithm='sha256'>532628d32aeab2f01509f9fdb4aa49e20d23d0f3c9d77254d6564b72772b88bd</digest>
+      <digest algorithm='sha384'>744689b65ed7d10c0c02c92f541d4f94e2014b30459002d9e890fed094af2c629c5cbce8e6e4e88d9ae079002ccd810b</digest>
+      <digest algorithm='sha512'>09142609d40c5ef09ebd9984f376cef676fdba46cde34e2af3ac59d4063c2445e5ecd28b13437a75eaa91050b47c265b435bb8467183c6227c2326ed72a3580d</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>6729</size>
+      <blksize>32768</blksize>
+      <blocks>16</blocks>
+      <modtime>2014-12-09 17:30:49+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:15+00</sumtime>
+      <inode>78384078</inode>
+    </file>
+    <file>
+      <path>data/1-data/FGBS-0900-0700/Fish Dump.csv</path>
+      <digest algorithm='md5'>dab922c0642a4914e232fee4388fdc06</digest>
+      <digest algorithm='sha1'>9f15765d4f772a009df8c9967e0195fca33854a0</digest>
+      <digest algorithm='sha256'>9865618ec07b9d38d0723d6946bbf036e9d9e34bc45dcb757d1ef0c4beb804a7</digest>
+      <digest algorithm='sha384'>148602ce7d377e87d75298571dc1533e0f721b3d37f561c9fb7ac734ec1f37550711a4b8606be959428321fa9c5351d6</digest>
+      <digest algorithm='sha512'>5e606e4c32111fb1172ae68b9d32cc11cf99d2ea8e6e26ad0aa7322c405b23fc770615602404a2ac9d25e9bcb324e3ac45939a9a39b3b3c491372faf5a12cb84</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>280343</size>
+      <blksize>32768</blksize>
+      <blocks>552</blocks>
+      <modtime>2014-12-09 17:30:49+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:15+00</sumtime>
+      <inode>78384079</inode>
+    </file>
+    <file>
+      <path>data/1-data/FGBS-0900-0700/Fish Richness.csv</path>
+      <digest algorithm='md5'>73ea318d2d827276abb642c81b0f2a36</digest>
+      <digest algorithm='sha1'>ff7599392b4c7499e44caf439ca8637f99a18d21</digest>
+      <digest algorithm='sha256'>65781a02d67560da3dc69251a23e66855a86b6469cbe4d2daed8dff489770840</digest>
+      <digest algorithm='sha384'>0c83bfbaeb5fc825e0afb26dcfe1262b398e6079b052fe5ac14b688616ea13aa1affea4a5304f58f075fa27a40a4eedf</digest>
+      <digest algorithm='sha512'>716513758624fbcd90b1e4f9ae41eae0842c819040efb9375cbf8b39f99bbdf0d3d0815ca113028cb87e3c66c06513cb53e092b7e28302d7c13c2790f0311d62</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>6571</size>
+      <blksize>32768</blksize>
+      <blocks>16</blocks>
+      <modtime>2014-12-09 17:30:49+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:15+00</sumtime>
+      <inode>78384080</inode>
+    </file>
+    <file>
+      <path>data/1-data/FGBS-0900-1000</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxrwxr-x</permissions>
+      <linkcount>2</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2014-12-16 16:14:30+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 20:12:13+00</acctime>
+      <sumtime>2014-12-18 20:12:15+00</sumtime>
+      <inode>78644498</inode>
+    </file>
+    <file>
+      <path>data/1-data/FGBS-0900-1000/Benthic Abiotic Cover.csv</path>
+      <digest algorithm='md5'>cc7ebddd83a2cda6b0392aa2b85a3289</digest>
+      <digest algorithm='sha1'>24bdbaa5ae17cd329331f013a07f7173642517ff</digest>
+      <digest algorithm='sha256'>860fca63d89a22edc4a3e0b8a96f8e494bbefe519abe74c90b50ff0bb0d80f81</digest>
+      <digest algorithm='sha384'>0a97cd29571b5012bf10fe4fb9eae8d3706c36f8c5ce160dc72c82b6705c97caa194912b8a4654210a2d85a8d9765c47</digest>
+      <digest algorithm='sha512'>268728049355eb55239a02b27d17e5e99e91af2aae2b62baa79828255e351766801412f9aecb68119fb316cf20b87f14b2e650892b80b12639908005ab89c985</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>21546</size>
+      <blksize>32768</blksize>
+      <blocks>48</blocks>
+      <modtime>2014-12-09 17:30:50+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:15+00</sumtime>
+      <inode>78384081</inode>
+    </file>
+    <file>
+      <path>data/1-data/FGBS-0900-1000/Benthic Biotic Cover.csv</path>
+      <digest algorithm='md5'>6fbb83a250962084a20b7bd372f20e96</digest>
+      <digest algorithm='sha1'>6e668ed7bedb41bc80e3aefb6e9fcf0f7768db2c</digest>
+      <digest algorithm='sha256'>a093d81d6e8d724c55a4a2dad0be92acd4904602690c32b2c6fcd954fbba8688</digest>
+      <digest algorithm='sha384'>e103fd4a03a74db8606ecd5764b1ffcae08e1b04585b51b961c0c51d73ff1fc25a35d6874b234b4871778a5a8cbae839</digest>
+      <digest algorithm='sha512'>b93da54d3c9367592e1f0936c6fe1cbb4047ea14ffc640d0680e4b3789cf5f2238fc385f5513c61cbb2a9d51b50c3c6f3faafa8bf43f0d0649cd9bbd792bc19a</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>177899</size>
+      <blksize>32768</blksize>
+      <blocks>352</blocks>
+      <modtime>2014-12-09 17:30:51+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:15+00</sumtime>
+      <inode>78384082</inode>
+    </file>
+    <file>
+      <path>data/1-data/FGBS-0900-1000/Benthic MacroInverts.csv</path>
+      <digest algorithm='md5'>eb984742f18e6ca18cee373133f25d73</digest>
+      <digest algorithm='sha1'>851bb0b47a7cbc877e5cf742f5e4f8f327667a79</digest>
+      <digest algorithm='sha256'>01a6400a8e32e098225b432da66c2985e88216ba8ae09cff13595a18b61f7fbb</digest>
+      <digest algorithm='sha384'>829c85e6a39f3bc51fa6d604899317f4eb18325e772af02e2641a5f5f8902f6771a2b3e50ad6ed3a44f9a5f16432f136</digest>
+      <digest algorithm='sha512'>63ef3e9cd39ac1855a861e29972ae90623ea937af2367afe2864f0875804b7aecde09703e76b0df39c923a82340e961c346c437c7d66ca23e7d6a056a65b1357</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>1817</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2014-12-09 17:30:50+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:15+00</sumtime>
+      <inode>78384083</inode>
+    </file>
+    <file>
+      <path>data/1-data/FGBS-0900-1000/Fish Abundance.csv</path>
+      <digest algorithm='md5'>c38c9fb2fb5916125df0add5c2860f10</digest>
+      <digest algorithm='sha1'>3efd20f4d29692068b81ac414998081e6e62d019</digest>
+      <digest algorithm='sha256'>340cf90393801719cc277e28932390d544589edc8d9d199aee235c79cdc63fb5</digest>
+      <digest algorithm='sha384'>69575f3d085f9b763f59606f7bcbe4ae2eec4ba378ef5028c6b346a06819a9ad655a9aa06d17c0a27704e0587a0c3456</digest>
+      <digest algorithm='sha512'>233f389ff0060468979be830624e8618f85d3477b387158dd2273fd88ee5ffa1d681545d6532f17915acfa48fefaa2235f277ffaeac4ac7236d9e0bdbc3fce41</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>368072</size>
+      <blksize>32768</blksize>
+      <blocks>720</blocks>
+      <modtime>2014-12-09 17:30:50+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:15+00</sumtime>
+      <inode>78384084</inode>
+    </file>
+    <file>
+      <path>data/1-data/FGBS-0900-1000/Fish Biomass.csv</path>
+      <digest algorithm='md5'>1e5ca59ba89c99fc21a3cb4e3d7c2184</digest>
+      <digest algorithm='sha1'>ff233de7a0c51217e6d1fec8987b7280f5fae3e9</digest>
+      <digest algorithm='sha256'>8b95a3ee5b96581aee2dbaa0210b87a8d08fbaf907022e5d1b9d4cd6449f0d29</digest>
+      <digest algorithm='sha384'>0849e311f2b10048687cb34ca57bbed82a39ce9f41b6ac7fd951b01abd6e0d5df67bb8e58f2f6245807eac95f9e20169</digest>
+      <digest algorithm='sha512'>e204e6a1d42396928afd7cac38ecf26cd87cf82b7ba4def27671fa38deace5d32954acb4d23fa3c03dd5712be47497885cf7f4df119cec51a327f7d956825816</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>562048</size>
+      <blksize>32768</blksize>
+      <blocks>1104</blocks>
+      <modtime>2014-12-09 17:30:50+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:15+00</sumtime>
+      <inode>78384085</inode>
+    </file>
+    <file>
+      <path>data/1-data/FGBS-0900-1000/Fish Diversity.csv</path>
+      <digest algorithm='md5'>874e42417eecb62bf8b068666ee517bc</digest>
+      <digest algorithm='sha1'>2c2b1e64ea21f4d8da7725f0c6ea82144c31faee</digest>
+      <digest algorithm='sha256'>a8fad1cb7f71b921da9c8d12f06189741eaaa6ca7fb497e7f384d8ec6fe87454</digest>
+      <digest algorithm='sha384'>a01741bf92471115d0abda9fb2040957cf788c8bce6aada178047273872ae884a882d04538b6f7e194a49312b09bd909</digest>
+      <digest algorithm='sha512'>51ef9fbdc2bcc50a909e19ce9be330e947cae0fe27fee0c192cbff66464cd6884fbc88cc17354d582b2638f157b8dc83171f7dc541766f1e20d06ce6dc6a625a</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>12931</size>
+      <blksize>32768</blksize>
+      <blocks>32</blocks>
+      <modtime>2014-12-09 17:30:50+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:15+00</sumtime>
+      <inode>78384086</inode>
+    </file>
+    <file>
+      <path>data/1-data/FGBS-0900-1000/Fish Dump.csv</path>
+      <digest algorithm='md5'>8ae8a4be8364d186a2a78b1713a68be1</digest>
+      <digest algorithm='sha1'>f49a2f719a5dede5b0ef87d80a9ea7665bc2b1c7</digest>
+      <digest algorithm='sha256'>c962fa1964e0726de260b531c218d4852db4c112fcfe0dfc36d4ae9e5970416e</digest>
+      <digest algorithm='sha384'>78daec294ddafebe94993205c6f74b5ed3c9d0a69a20bb77fdfbc1c88c434d031652e2eb2b417b8464f84a7c85e74157</digest>
+      <digest algorithm='sha512'>e1db6c2e7d3ea02c67b28948497d42e88075897ce18223ec62f480c5a862a7d615a9e409a17548e1e5494895294687187984e2aba98211720aae6b5004947fc6</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>523572</size>
+      <blksize>32768</blksize>
+      <blocks>1024</blocks>
+      <modtime>2014-12-09 17:30:50+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:15+00</sumtime>
+      <inode>78384087</inode>
+    </file>
+    <file>
+      <path>data/1-data/FGBS-0900-1000/Fish Richness.csv</path>
+      <digest algorithm='md5'>7abcf1cbe38616a107ce0b48ea58cf24</digest>
+      <digest algorithm='sha1'>55fac179000b7c8cd0dd29cf73f166f8a890f0a9</digest>
+      <digest algorithm='sha256'>16e8d82cc002d2114b86a4198d3a02b579bd11ec515e6330f3e0341b5e5b1611</digest>
+      <digest algorithm='sha384'>05408848d46cfa9c96611b633e4ae8446600c11d75dd0c500c0118bf973c750ac0e9bc04174d24d9a787669a1d8fa23b</digest>
+      <digest algorithm='sha512'>ffae10367130f437371a92c8969acc130883cecb6abee1656243e6dabae4471af648780c1427eb8dc02418e9e1860adba903f9793f6232b8003aee8d70b88b40</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>12563</size>
+      <blksize>32768</blksize>
+      <blocks>32</blocks>
+      <modtime>2014-12-09 17:30:50+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:15+00</sumtime>
+      <inode>78384088</inode>
+    </file>
+    <file>
+      <path>data/1-data/FGBS-0900-1200</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxrwxr-x</permissions>
+      <linkcount>2</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2014-12-16 16:14:30+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 20:12:13+00</acctime>
+      <sumtime>2014-12-18 20:12:15+00</sumtime>
+      <inode>78644499</inode>
+    </file>
+    <file>
+      <path>data/1-data/FGBS-0900-1200/Benthic Abiotic Cover.csv</path>
+      <digest algorithm='md5'>21edb645268d11826e4b3e3da12d90d7</digest>
+      <digest algorithm='sha1'>9b66e77e65516a1e1fb55ec1d698ffc4e0eb89f0</digest>
+      <digest algorithm='sha256'>955475693d4d4c8059cc888e257de957caabc2bb07df95b23204326f311030ce</digest>
+      <digest algorithm='sha384'>cd329f98f15269ccad4006c8c664933fd7cf4e47d8cca8a03bc48991084bad8bdf252a0b92a82b835a14961690584bc7</digest>
+      <digest algorithm='sha512'>edb143bee36ee61f2419456272d5d9a845c49ccb974fbd8a1b883330ad531505e8563aa1db383aee122cfbfcd435c90b97381f46c2060fe80daa91f40295a065</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>19120</size>
+      <blksize>32768</blksize>
+      <blocks>40</blocks>
+      <modtime>2014-12-09 17:30:49+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:15+00</sumtime>
+      <inode>78384089</inode>
+    </file>
+    <file>
+      <path>data/1-data/FGBS-0900-1200/Benthic Biotic Cover.csv</path>
+      <digest algorithm='md5'>9715772e771b5b3bc5309f56e41c57b3</digest>
+      <digest algorithm='sha1'>2218d359bfb2e9e5cdc6244c703cb2f39fdecdc0</digest>
+      <digest algorithm='sha256'>c5863f80cd483d11729a494e348d5c063cf6a4b0ecd6d222cb5bd0d7088e6651</digest>
+      <digest algorithm='sha384'>16704dd2a746376e96dc38843f1d64d05b8ecd64fd3c2defcec1ad38e73c84d430d075cf9dfe190a2db7247a9558c0ed</digest>
+      <digest algorithm='sha512'>80ced8cccefecdbfa0eb989fcfedb5e3282350cc19c39fdb71f54cc8fa6f9417e82d11805255a4a465a61ac03b5bda908acbc5fb61c702855767036ba1247c55</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>162205</size>
+      <blksize>32768</blksize>
+      <blocks>320</blocks>
+      <modtime>2014-12-09 17:30:49+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:15+00</sumtime>
+      <inode>78384090</inode>
+    </file>
+    <file>
+      <path>data/1-data/FGBS-0900-1200/Benthic MacroInverts.csv</path>
+      <digest algorithm='md5'>64eb5a22f2de67d7a4fdb9ef81dc02ab</digest>
+      <digest algorithm='sha1'>bcccf4c2a432858ca6e1eb95f9b1b945e559e870</digest>
+      <digest algorithm='sha256'>1fdc6dbb8418c2e5243fd15e7c8b7f91a7821a8a2954285083a78ff3ce853d9c</digest>
+      <digest algorithm='sha384'>ec25b501c971ee531ed7c69f2cb0885639fd9d7bd27304106f2fc759c1bc410d835d180f073ab03ce39fc2d48ec93e6a</digest>
+      <digest algorithm='sha512'>1a381901ca50f009662257daa9de3653f316e7ac8942dcebcecdbc35c9c126d6315409bfb67d628b4f316b1c2f4fb23334410e94c80e521d3e6851daa1adae21</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>1815</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2014-12-09 17:30:49+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:15+00</sumtime>
+      <inode>78384091</inode>
+    </file>
+    <file>
+      <path>data/1-data/FGBS-0900-1200/Fish Abundance.csv</path>
+      <digest algorithm='md5'>3b6c8fffbfbed73b97f8089c2c46ffe8</digest>
+      <digest algorithm='sha1'>ca76128d202f39aa23964aa2af6154d3601e5462</digest>
+      <digest algorithm='sha256'>63238d7224a01f03c29e532e1eaff38027963bcca849323d110e83cff0b157a7</digest>
+      <digest algorithm='sha384'>75bc9e1e5194f31e28c8cd85307e4b6078f59383954b4d3cf5f83d8a65d6c7f56e8ea60eb756533642e75d46270f7306</digest>
+      <digest algorithm='sha512'>a2d4a596ccd5c125bef3a59e8dc937905e05a26f721463943610b6b85200e78b72e349f42a16efe15ba6ef7b6316d9cc343ec15d6584c76c8ddd3604ddc68817</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>439296</size>
+      <blksize>32768</blksize>
+      <blocks>864</blocks>
+      <modtime>2014-12-09 17:30:49+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:15+00</sumtime>
+      <inode>78384092</inode>
+    </file>
+    <file>
+      <path>data/1-data/FGBS-0900-1200/Fish Biomass.csv</path>
+      <digest algorithm='md5'>6cb732e84f3313c384c2f6df23c3ebaa</digest>
+      <digest algorithm='sha1'>5518c6f7c0cd290e9b925a47495c2c27be22dabe</digest>
+      <digest algorithm='sha256'>a4e8cd36a2cdb2377cc0dca89aa56cc7f36db42f5fdaa8afe68a8b7c83988f39</digest>
+      <digest algorithm='sha384'>b2c029adc2ec064fbfc115bb6839187bd0172ff1a79e81258330a1fac51e688ff26f5a33375e0919963a782158a5c5f7</digest>
+      <digest algorithm='sha512'>66cb983e38019853e9f26de0e4c28378940d5455c6af1d0a9340d669c60862e052a1e762427fbac8716fd00e3ede912e9e7a549cb10a5c3d183bd7226b5b29a7</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>680563</size>
+      <blksize>32768</blksize>
+      <blocks>1336</blocks>
+      <modtime>2014-12-09 17:30:49+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:16+00</sumtime>
+      <inode>78384093</inode>
+    </file>
+    <file>
+      <path>data/1-data/FGBS-0900-1200/Fish Diversity.csv</path>
+      <digest algorithm='md5'>fada49f23a19be2e631e824c0dd70ffa</digest>
+      <digest algorithm='sha1'>948285b676795c67384a93fc861fd8f18ff97095</digest>
+      <digest algorithm='sha256'>cedc984c1adc1f0a7e133ec7747b607a28495bad742a20bb088740e95c710a46</digest>
+      <digest algorithm='sha384'>da647a216eb294ae7047a0d5c4a8be693f3e7dd7bef3c62ed19af9596f7d3665911b3d617f2182552ee400022593722c</digest>
+      <digest algorithm='sha512'>e6c0c24d26cc34c01a95c930a0c610631c31ea02f4c234e59b2a7eff243517f6f366024deb104604577747266e0ffb6b83f2d80a2d802aea2fb41b3f96c082f8</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>13923</size>
+      <blksize>32768</blksize>
+      <blocks>32</blocks>
+      <modtime>2014-12-09 17:30:49+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:16+00</sumtime>
+      <inode>78384094</inode>
+    </file>
+    <file>
+      <path>data/1-data/FGBS-0900-1200/Fish Dump.csv</path>
+      <digest algorithm='md5'>ec71f94b528a45cad54f65152c2ba8f9</digest>
+      <digest algorithm='sha1'>9cd5a6a41b06fececfb787c8be07ed91a1f811c7</digest>
+      <digest algorithm='sha256'>533a2a18a1d86874608488b77df88f1676491c39df2edc97d23215c74222a321</digest>
+      <digest algorithm='sha384'>947ceb9f64cc468d02bd71b5c025b45d10b47c719710b358f6e19a7c9e8bc6c3c2de99b7170d6251d63666b702c9ce36</digest>
+      <digest algorithm='sha512'>271969e4fb84f84eec1332c9ea69e5292b71e1632d5a4b43299255fefdfe8c788f481893211d0591f3bf8b466773d862d39a63bf9fd42b10bba52b1f0d9e39d9</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>632974</size>
+      <blksize>32768</blksize>
+      <blocks>1240</blocks>
+      <modtime>2014-12-09 17:30:49+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:16+00</sumtime>
+      <inode>78384095</inode>
+    </file>
+    <file>
+      <path>data/1-data/FGBS-0900-1200/Fish Richness.csv</path>
+      <digest algorithm='md5'>1419c1a892d841ffa6cb7600461b63f6</digest>
+      <digest algorithm='sha1'>d0a664d6fa8b653c79f46c081ad0b0cdddae3923</digest>
+      <digest algorithm='sha256'>7fa3aa5e91cff6db8489fb080b4ec0d9494099db58066a920361bd390056ae44</digest>
+      <digest algorithm='sha384'>f0550e9e40ad33f28b2387ddbf838b0fe89c741eb60a8859a5f0dbfc6b52947633f240802937e32079fe16cec17f63b2</digest>
+      <digest algorithm='sha512'>cad2e64265ded99b6655686bc2a709e7e68e5fe603d4aefc9432e03be9344252516767e4bd50e79262d0d2caf6653b5967f555f323474deb34b34cb6e4c144e4</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>13740</size>
+      <blksize>32768</blksize>
+      <blocks>32</blocks>
+      <modtime>2014-12-09 17:30:49+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:16+00</sumtime>
+      <inode>78384096</inode>
+    </file>
+    <file>
+      <path>data/1-data/FGBT-0809-1100</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxrwxr-x</permissions>
+      <linkcount>2</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2014-12-16 16:14:31+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 20:12:13+00</acctime>
+      <sumtime>2014-12-18 20:12:16+00</sumtime>
+      <inode>78644500</inode>
+    </file>
+    <file>
+      <path>data/1-data/FGBT-0809-1100/Benthic Abiotic Cover.csv</path>
+      <digest algorithm='md5'>03b273503c6c081febc749ffabca85a9</digest>
+      <digest algorithm='sha1'>6206095c973cd9b155ad4c6fb57465e4304af9f1</digest>
+      <digest algorithm='sha256'>8d24d26ea158ea844a32b1d9b18f806b4f5ae7e402866f9f7a15cda6e65d21b1</digest>
+      <digest algorithm='sha384'>61a53c8524f6f617eae2f2927eade77615e65a21ddb4d13c410c893e9e4dabbc06d2a1389fc8e010c9deefd3622642b7</digest>
+      <digest algorithm='sha512'>a37a9777296d10e29499d05e257a787315b65f053704c6810c08f770e5606409be12a387f6c54bae8706420ea8932cb6ede87e46baa763aebb3be04fb4b550ed</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>13071</size>
+      <blksize>32768</blksize>
+      <blocks>32</blocks>
+      <modtime>2014-12-09 17:30:50+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:16+00</sumtime>
+      <inode>78384097</inode>
+    </file>
+    <file>
+      <path>data/1-data/FGBT-0809-1100/Benthic Biotic Cover.csv</path>
+      <digest algorithm='md5'>dbee3ac37f3ef37d6c199da8c9f31cda</digest>
+      <digest algorithm='sha1'>a195f7b370901283812208d54cb366798750a53b</digest>
+      <digest algorithm='sha256'>ea490e7ec51c84207a24da00fa156fea28cf105f5509b535ac28dbc2430e1588</digest>
+      <digest algorithm='sha384'>b988b268527521fceb33ec089ddcf74de72cb601182c9f678b7b9b227379877b671148dcd0c91845f74be7118dc6aa96</digest>
+      <digest algorithm='sha512'>429d38d18ae51f62d687ba9de1a0ab4933873c56c8a585f70d9fd8c1c4c3abd21f99decd38a7ca738384e0f7bf02a8b17bcd45e778b3575fb1330b5b09d1fa4c</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>60581</size>
+      <blksize>32768</blksize>
+      <blocks>120</blocks>
+      <modtime>2014-12-09 17:30:50+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:16+00</sumtime>
+      <inode>78384098</inode>
+    </file>
+    <file>
+      <path>data/1-data/FGBT-0809-1100/Fish Abundance.csv</path>
+      <digest algorithm='md5'>9ac03db231cc641ee1793cf2d1f2dbc5</digest>
+      <digest algorithm='sha1'>e6772744d9ade3a0795e6cb23a1fb3db6cca6915</digest>
+      <digest algorithm='sha256'>115cc02b420f1d160f84818c338d15ffea02de88920a68c926251c1156861825</digest>
+      <digest algorithm='sha384'>ea880cba440f6d9695f8ad6b5e9faa8a5151f3816091576d00253d2c676f06bf77c542a4e9356b83f4bbe323591eba4c</digest>
+      <digest algorithm='sha512'>c5b705757e7e5cb66115f37b5229e68964d3b4f7880af2c6b70da08d0be33132bb87c00764ecd21e47bb44dbe18cd262920883c7b1fba578f1168794b404aff6</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>241464</size>
+      <blksize>32768</blksize>
+      <blocks>472</blocks>
+      <modtime>2014-12-09 17:30:50+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:16+00</sumtime>
+      <inode>78384099</inode>
+    </file>
+    <file>
+      <path>data/1-data/FGBT-0809-1100/Fish Biomass.csv</path>
+      <digest algorithm='md5'>3bf5011bf42996764b59735ccd08af8a</digest>
+      <digest algorithm='sha1'>2343ff7b3d86b572bfac8d6f2aafd8f2ede37fff</digest>
+      <digest algorithm='sha256'>de7a5df4acff041a441809f669f85167a2af7ec9215f3160a1ffc8470af8cf0b</digest>
+      <digest algorithm='sha384'>eabdb1aa237f814a7f131b7857282cba08a79c992309ea99913283434718fbed9ab1648b2ce232ad0850728c9351f3cd</digest>
+      <digest algorithm='sha512'>8d81ba2cf7e25e28100caf853fed8e746a13cd066f9f07931f952a17149a5f283a9961a3bc08c18326b3091df39d90df4b7d5705fc7be340786ae93b36525b03</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>391203</size>
+      <blksize>32768</blksize>
+      <blocks>768</blocks>
+      <modtime>2014-12-09 17:30:50+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:16+00</sumtime>
+      <inode>78384100</inode>
+    </file>
+    <file>
+      <path>data/1-data/FGBT-0809-1100/Fish Diversity.csv</path>
+      <digest algorithm='md5'>ab64955c6dd84cd0b145e0fdd7b63227</digest>
+      <digest algorithm='sha1'>84a4f8072b1710aadf007d7fa36befc09966261c</digest>
+      <digest algorithm='sha256'>aec5cc319174e188586252bd4c1981fa165f94efba63b2b924fffc5df43a68cf</digest>
+      <digest algorithm='sha384'>6379f60630b4ef40e4fab1487185a00258deedc3b692705f310732cc962708b85492997807b9575bcbcf36e412991a7d</digest>
+      <digest algorithm='sha512'>6b4361ed5d9b90884686311306f55417965b509c9f6e04736c5a742d47db1dd343078d2a39e10911ae8f3115ca8d3cc46b616f6403d151c89e107222108eb0fa</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>7877</size>
+      <blksize>32768</blksize>
+      <blocks>16</blocks>
+      <modtime>2014-12-09 17:30:50+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:16+00</sumtime>
+      <inode>78384101</inode>
+    </file>
+    <file>
+      <path>data/1-data/FGBT-0809-1100/Fish Dump.csv</path>
+      <digest algorithm='md5'>dcc66875fb4732b17b14984746d64bb0</digest>
+      <digest algorithm='sha1'>619e35387cb7b04aa4cf5fe6387f31143f672a01</digest>
+      <digest algorithm='sha256'>63859fdb124f80eceb91fdceb50f84fdf6b9dad6375fdcf66c1e3f724675b676</digest>
+      <digest algorithm='sha384'>2063d2bb81b5d43ef2e12bdaa62260ba95d04f58365376717b19f0602854cdbd819ad90f0d0719cc4076e4d9bb1dbbbc</digest>
+      <digest algorithm='sha512'>51fbfe205fa45e9b7e424a599a334ae5e2d8026185dc01ebe90b597e1e94c65310835fec8306e22c708e91fdd322d011b6bc00eec1e30807f8807876d118fa0c</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>362013</size>
+      <blksize>32768</blksize>
+      <blocks>712</blocks>
+      <modtime>2014-12-09 17:30:50+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:16+00</sumtime>
+      <inode>78384102</inode>
+    </file>
+    <file>
+      <path>data/1-data/FGBT-0809-1100/Fish Richness.csv</path>
+      <digest algorithm='md5'>3f9d910e1122f0e141caaaa91e67e08b</digest>
+      <digest algorithm='sha1'>91c2667e49fdd9f90cb61b466d24d99f99f4360a</digest>
+      <digest algorithm='sha256'>a22b37724c6953b3d55ea63ce2ceb8927a97c845ce0a39d668d8f5e326be5179</digest>
+      <digest algorithm='sha384'>555e8b5ee062f1c70e498a1996f9b540d3f1f0451140319b54cfd85a175d4f228d0852627fbae322beec67ab23c71e1b</digest>
+      <digest algorithm='sha512'>18e8e1ce7627cc3b953e1aa4b4fb0cabb6a51176faa6c4492519829c9adca66523f92eaafae611d4c22d45fd5b3c798bbb55e002f11d4a773f954f49012defd8</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>7705</size>
+      <blksize>32768</blksize>
+      <blocks>16</blocks>
+      <modtime>2014-12-09 17:30:50+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:16+00</sumtime>
+      <inode>78384103</inode>
+    </file>
+    <file>
+      <path>data/1-data/FGBT-1000-1200</path>
+      <digest algorithm='md5'>d41d8cd98f00b204e9800998ecf8427e</digest>
+      <digest algorithm='sha1'>da39a3ee5e6b4b0d3255bfef95601890afd80709</digest>
+      <digest algorithm='sha256'>e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</digest>
+      <digest algorithm='sha384'>38b060a751ac96384cd9327eb1b1e36a21fdb71114be07434c0cc7bf63f6e1da274edebfe76f65fbd51ad2f14898b95b</digest>
+      <digest algorithm='sha512'>cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e</digest>
+      <type_category>irregular</type_category>
+      <type>directory</type>
+      <permissions>drwxrwxr-x</permissions>
+      <linkcount>2</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>4096</size>
+      <blksize>32768</blksize>
+      <blocks>8</blocks>
+      <modtime>2014-12-16 16:14:31+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 20:12:13+00</acctime>
+      <sumtime>2014-12-18 20:12:16+00</sumtime>
+      <inode>78644501</inode>
+    </file>
+    <file>
+      <path>data/1-data/FGBT-1000-1200/Benthic Abiotic Cover.csv</path>
+      <digest algorithm='md5'>be3bd53ed60ce6fcafa4641688dcc17a</digest>
+      <digest algorithm='sha1'>79849855a3e89af15babc628d43924c2adaa1e4d</digest>
+      <digest algorithm='sha256'>f131db80d4e41aafefc5850198a8ac2c545ef8e296c660dd58e681c4710788ff</digest>
+      <digest algorithm='sha384'>1a74bb33f8679e3731bcf5de00fc74b14c6d0b672066ac688e28dfc69361cba645d090a5ac0c5cf29cae26b6cc896585</digest>
+      <digest algorithm='sha512'>55a72c0f726d5bdc0b1c01b32bd4bcee2eac28daf41bc4e3a628af1b635e09843d4c1262bcf91d675df4a67a732828cef84e957d8d6cf799612dd0ec57545af7</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>13360</size>
+      <blksize>32768</blksize>
+      <blocks>32</blocks>
+      <modtime>2014-12-09 17:30:50+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:16+00</sumtime>
+      <inode>78384104</inode>
+    </file>
+    <file>
+      <path>data/1-data/FGBT-1000-1200/Benthic Biotic Cover.csv</path>
+      <digest algorithm='md5'>a0838a16a6d9dff9b5db71871bd68e15</digest>
+      <digest algorithm='sha1'>d91efbb9aec397f69ab94143504ad5b8698bdfc6</digest>
+      <digest algorithm='sha256'>a19532848601479ea0d3b0fa781acfc020dd71f9f3aea26766544b0e63622738</digest>
+      <digest algorithm='sha384'>140bf0081e1d88f1102099f89779560709bdcfb50af564d86b7ec694bedf4dae216a358777eced5ef9cdb7da6be56ba3</digest>
+      <digest algorithm='sha512'>952d5f027ecc171e667d5e1f8c646d3b89b0f612b1ca05a0ff757f4b868f69519cdc02123d9ad65abd75b5cbd7c7993313b35902e99626da379652fab0a75f6d</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>47352</size>
+      <blksize>32768</blksize>
+      <blocks>96</blocks>
+      <modtime>2014-12-09 17:30:50+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:16+00</sumtime>
+      <inode>78384105</inode>
+    </file>
+    <file>
+      <path>data/1-data/FGBT-1000-1200/Fish Abundance.csv</path>
+      <digest algorithm='md5'>2401acf7cce321e52e7772af336ffac1</digest>
+      <digest algorithm='sha1'>c77bfbd2c8ce34b5479f4f61a33659b104885951</digest>
+      <digest algorithm='sha256'>7441922e42f9a94c9e9ba7efc39b5b41338470d0c888bffa610c48c1f3a1142e</digest>
+      <digest algorithm='sha384'>825a165666571485902591e02350e4452a77133ebd1768c7e7dfb9436f4e46e155cce58a78bd121c70be196d0ca0d889</digest>
+      <digest algorithm='sha512'>cbfd91a75f3ed6cf355761bbdf56e22c5deb971a487847bc29042d235cf9b36a730fb1282ae502a99238f63809b65ab718835e6f5012c49aacb4cc26dbc53f29</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>169884</size>
+      <blksize>32768</blksize>
+      <blocks>336</blocks>
+      <modtime>2014-12-09 17:30:50+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:16+00</sumtime>
+      <inode>78384106</inode>
+    </file>
+    <file>
+      <path>data/1-data/FGBT-1000-1200/Fish Biomass.csv</path>
+      <digest algorithm='md5'>8860dbb24889ec67cd3d81a697109953</digest>
+      <digest algorithm='sha1'>dd4d0cac152a4b46e3ccf098801d15634af1cc03</digest>
+      <digest algorithm='sha256'>4eeaf693564ce794dfd87c560b175fb63501e449e69cfe4ec47a5aea8c284beb</digest>
+      <digest algorithm='sha384'>479c91f8b68869739a00bf6a391a9b64ddc75253a0d2bb20585598975cf125d662b1a62252e276c8652ef79bb5919393</digest>
+      <digest algorithm='sha512'>97d8557a94dc893dc1772ced30fa790ff60ef679dc426d732cb2020ff67666cc1b23533026ca60703bf34cbbe3a6b34936a423fe65407c189b83f65a3ad65999</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>273913</size>
+      <blksize>32768</blksize>
+      <blocks>536</blocks>
+      <modtime>2014-12-09 17:30:50+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:16+00</sumtime>
+      <inode>78384107</inode>
+    </file>
+    <file>
+      <path>data/1-data/FGBT-1000-1200/Fish Diversity.csv</path>
+      <digest algorithm='md5'>b4a49165208b3e245b4c44e301440306</digest>
+      <digest algorithm='sha1'>a1869d4b5adc5ba195434372ea7e52d59deb6665</digest>
+      <digest algorithm='sha256'>9ae48734198e2ce1c6d271ca37ef1c18b1857b5a1f004f81cd50bef011361e6e</digest>
+      <digest algorithm='sha384'>78dffab14d0b4e69607dda9d03df8082f6994872d29984efd7ec0ba95ecb27c806d1ae72a912fd34d33b5a3cb8953089</digest>
+      <digest algorithm='sha512'>9b834f68849833f861511943ae000ce7ead8f08dce67dbed111dcd1df15a2699e9eedc0ccf2e00222cc09077cd7bfb42e6be444451e60c6ce5179b6f15d56834</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>5440</size>
+      <blksize>32768</blksize>
+      <blocks>16</blocks>
+      <modtime>2014-12-09 17:30:50+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:16+00</sumtime>
+      <inode>78384108</inode>
+    </file>
+    <file>
+      <path>data/1-data/FGBT-1000-1200/Fish Dump.csv</path>
+      <digest algorithm='md5'>222040a3bbf629f635a2e07a9ba3c52e</digest>
+      <digest algorithm='sha1'>bd023d9531ee1742f54da9e63e11d36bf82e4eb4</digest>
+      <digest algorithm='sha256'>3196795cf260b485824be9554ce22fc812f129eb5528f5c1cc0c1cf1b3a5ad23</digest>
+      <digest algorithm='sha384'>da97367c80e91f2d8c61daeea15391e3ce4013c2d333e64b01cec89d1638fd7df0d4604615aa3e6839f62a3f7def3621</digest>
+      <digest algorithm='sha512'>47d4b623337bd15d96749d5eb01e75d56346d377c984ef9b8f26cc7b52c74ffa0438061a329e2c0c6c37c4f6ad3f4694f05df7e2fbb3432549cc63795c57a81f</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>255263</size>
+      <blksize>32768</blksize>
+      <blocks>504</blocks>
+      <modtime>2014-12-09 17:30:50+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:16+00</sumtime>
+      <inode>78384109</inode>
+    </file>
+    <file>
+      <path>data/1-data/FGBT-1000-1200/Fish Richness.csv</path>
+      <digest algorithm='md5'>d74901e2a95ffd33d657b39a18d2266c</digest>
+      <digest algorithm='sha1'>bbcb58516b99b9257f83162ea976b30cdf58f055</digest>
+      <digest algorithm='sha256'>26b3dd0084f1b99d315f80505a964353e0d7d9cd2444f43993094e71748f034e</digest>
+      <digest algorithm='sha384'>b0644c4c3d75d88abbd42bb76f354f29623bf2e473d1c3cf43ed1d8133acce7b43ac2bc5f7e225b817cefc264c7147fd</digest>
+      <digest algorithm='sha512'>835033bde9b46806ffa8d54fc110bfbaca5e78a9f9a8d1ffd6992e672811627751c1dec8e28ae48bfee0dacbaab642db979e89a8167e5bd9268d231514891178</digest>
+      <type_category>regular</type_category>
+      <type>text</type>
+      <permissions>-rw-rw-r--</permissions>
+      <linkcount>3</linkcount>
+      <user>root</user>
+      <group>root</group>
+      <size>5285</size>
+      <blksize>32768</blksize>
+      <blocks>16</blocks>
+      <modtime>2014-12-09 17:30:50+00</modtime>
+      <changetime>2014-12-18 20:12:12+00</changetime>
+      <acctime>2014-12-18 16:45:05+00</acctime>
+      <sumtime>2014-12-18 20:12:16+00</sumtime>
+      <inode>78384110</inode>
+    </file>
+  </files>
+</accession>

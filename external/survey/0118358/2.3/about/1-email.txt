@@ -1,0 +1,28 @@
+NODC receipt confirmation for Biogeographic characterization of fish and benthic communities, Flower Garden Banks
+1 message
+Brian Beck - NOAA Affiliate <brian.beck@noaa.gov>	Tue, Dec 16, 2014 at 11:24 AM
+To: Sarah Hile - NOAA Affiliate <sarah.hile@noaa.gov>
+Dear Sarah Hile:
+
+Thank you for submitting your data and metadata files to the U.S. National Oceanographic Data Center (NODC).
+
+NODC received these data on 2 September 2014 via e-mail submission.
+
+I assigned your submission NODC Accession Number 0118358. This number is a tracking number for the NODC Ocean Archive. 
+Please reference this number when corresponding with NODC about these data.
+
+You can find information about your archival data set at http://data.nodc.noaa.gov/accession/0118358
+
+After further reviewing your data, creating any additional versions of the data in a format that is more preservable in the NODC Ocean 
+Archive, and developing the necessary tracking metadata, NODC will publish your archival data online. You may access the archival copy of 
+your original data via the link listed above.
+
+In addition, NODC may load a subset of your data into one or more product databases, such as the Shipboard Sensor Database or World Ocean
+Database.
+
+Please let me know if you have any questions or if you have additional data and documentation that you would like to archive with this 
+data set.
+
+Regards,
+
+-Brian-

@@ -1,0 +1,29 @@
+Complete CRCP Data Books for Archiving (CREM, etc.)
+Sarah Hile - NOAA Affiliate <sarah.hile@noaa.gov>	Tue, Jul 22, 2014 at 3:53 PM
+To: Brian Beck - NOAA Affiliate <brian.beck@noaa.gov>
+
+Hey Brian,
+
+1.
+Attached is the complete package of data books for archiving encompassing CREM (PR, STJ, and STC), 
+FGBNMS Baseline Assessment (both Shallow and Tech), STEER, Jobos Bay, Guanica (Parguera/Guanica), 
+Vieques, and Land Sea Characterization of STXEEMP. All of this data is up to date as of July 2014, 
+including older data.
+
+2.
+Attached are also the current metadata files I have for each region. 
+Metadata associated with projects spanning multiple years will be the most current one I have that 
+incorporates multiple-year data. However, because I am continually challenged by metadata, I have i
+ncluded all of our historic files that I have sent to CoRIS over the years. Much of it has probably 
+been updated or is obsolete, but I wanted to give you what we had.
+
+3.
+Lastly, attached is also a data dictionary of sorts that explains the column/attribute 
+information as well some explanations of some data reported. This also includes links for the 
+sources used for biomass a/b values, trophic information and species names.
+
+
+Please let me know if you have any questions
+
+Cheers
+Sarah

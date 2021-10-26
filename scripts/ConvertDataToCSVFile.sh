@@ -4,6 +4,6 @@
 
 #Convert CSV file to SQL Insert statement that corresponds to schema
 
-echo "Enter file path."
-read file
-sed 's/ \+/,/g' ""${file}"" > ofile.csv
+echo "Enter file path (minus the format for text file)."
+read {file}.txt
+sed 's/ \+/,/g' ""${file}.txt"" > ""{$file}"".csv

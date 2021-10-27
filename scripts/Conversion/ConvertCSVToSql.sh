@@ -12,5 +12,5 @@ sed -i 's/\//,/g' surveys.sql
 sed -i 's/%D/%d/g' surveys.sql
 sed -i 's/%m/'"'"'%m/g' surveys.sql
 sed -i 's/%Y/%Y'"'"'/g' surveys.sql
-awk -F',' '{ printf("Insert into fishinfo (fishid, locationid, surveyindex, count, length) values((select fishid from fish where commonname = \"'%s'\"), (select locationid from location where latitude = \"'%s'\" and longitude = \"'%s'\"), \"'%s'\",\"'%s'\",\"'%s'\");\n ",$14,$8,$9,$6,$17,$16); }' 1.csv > fishinfo.sql
+awk -F',' '{ printf("Insert into fishinfo (fishid, locationid, surveyindex, count, length) values((select fishid from fish where commonname = \"'%s'\"), (select locationid from location where latitude = '%f' and longitude = '%f'), \"'%s'\",\"'%s'\",\"'%s'\");\n ",$14,$8,$9,$6,$17,$16); }' 1.csv > fishinfo.sql
 sed -i '1s/^/use\ reef-survey;\n/' fishinfo.sql

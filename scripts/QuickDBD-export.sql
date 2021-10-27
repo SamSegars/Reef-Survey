@@ -27,7 +27,7 @@ CREATE TABLE if not exists `fishinfo` (
 );
 
 CREATE TABLE if not exists `survey` (
-    `BatchCode` char(16)  NOT NULL ,
+    `BatchCode` char(25)  NOT NULL ,
     `SurveyIndex` int  NOT NULL ,
     `SurveyDate` date  NOT NULL ,
     `StructureType` Char(4)  NOT NULL ,

@@ -27,7 +27,7 @@ CREATE TABLE if not exists `FishInfo` (
 );
 
 CREATE TABLE if not exists `Survey` (
-    `BatchCode` char(16)  NOT NULL ,
+    `BatchCode` char(25)  NOT NULL ,
     `SurveyIndex` int  NOT NULL ,
     `SurveyDate` date  NOT NULL ,
     `StructureType` Char(4)  NOT NULL ,
@@ -61,10 +61,11 @@ REFERENCES `Survey` (`SurveyIndex`);
 #### CREATE USERS AND PRIVLEGES ####
 
 CREATE USER 'root'@'%' IDENTIFIED BY 'user_password';
-GRANT ALL PRIVILEGES ON database_name.* TO 'root'@'localhost';
+GRANT ALL PRIVILEGES ON reef-survey.* TO 'root'@'%';
 CREATE USER 'samuelsegars'@'%' IDENTIFIED BY 'user_password';
-GRANT ALL PRIVILEGES ON database_name.* TO 'samuelsegars'@'localhost';
+GRANT ALL PRIVILEGES ON reef-survey.* TO 'samuelsegars'@'%';
 CREATE USER 'garrypeffer'@'%' IDENTIFIED BY 'user_password';
-GRANT ALL PRIVILEGES ON database_name.* TO 'garrypeffer'@'localhost';
+GRANT ALL PRIVILEGES ON reef-survey.* TO 'garrypeffer'@'%';
 CREATE USER 'leonardobenitez'@'%' IDENTIFIED BY 'user_password';
-GRANT ALL PRIVILEGES ON database_name.* TO 'leonardobenitez'@'localhost';
+GRANT ALL PRIVILEGES ON reef-survey.* TO 'leonardobenitez'@'%';
+CREATE USER 'lillianmead'@'%' ON reef-survey.* to 'lillianmead'@'%';

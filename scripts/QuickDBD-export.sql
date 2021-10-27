@@ -57,3 +57,16 @@ REFERENCES `location` (`LocationID`);
 
 ALTER TABLE `fishinfo` ADD CONSTRAINT `fk_fishinfo_SurveyIndex` FOREIGN KEY(`SurveyIndex`)
 REFERENCES `survey` (`SurveyIndex`);
+
+#### CREATE USERS WITH PERMISSIONS ####
+
+CREATE USER 'reefsurveyadmin'@'%' IDENTIFIED BY 'user_password';
+GRANT ALL PRIVILEGES ON *.* TO 'database_user'@'loclhost';
+CREATE USER 'newuser'@'%' IDENTIFIED BY 'user_password';
+GRANT ALL PRIVILEGES ON *.* TO 'database_user'@'localhost';
+CREATE USER 'newuser'@'%' IDENTIFIED BY 'user_password';
+GRANT ALL PRIVILEGES ON *.* TO 'database_user'@'localhost';
+CREATE USER 'newuser'@'%' IDENTIFIED BY 'user_password';
+GRANT ALL PRIVILEGES ON *.* TO 'database_user'@'localhost';
+CREATE USER 'newuser'@'%' IDENTIFIED BY 'user_password';
+GRANT ALL PRIVILEGES ON *.* TO 'database_user'@'localhost';

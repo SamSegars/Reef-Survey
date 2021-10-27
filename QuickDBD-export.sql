@@ -57,3 +57,14 @@ REFERENCES `Location` (`LocationID`);
 
 ALTER TABLE `FishInfo` ADD CONSTRAINT `fk_FishInfo_SurveyIndex` FOREIGN KEY(`SurveyIndex`)
 REFERENCES `Survey` (`SurveyIndex`);
+
+#### CREATE USERS AND PRIVLEGES ####
+
+CREATE USER 'root'@'%' IDENTIFIED BY 'user_password';
+GRANT ALL PRIVILEGES ON database_name.* TO 'root'@'localhost';
+CREATE USER 'samuelsegars'@'%' IDENTIFIED BY 'user_password';
+GRANT ALL PRIVILEGES ON database_name.* TO 'samuelsegars'@'localhost';
+CREATE USER 'garrypeffer'@'%' IDENTIFIED BY 'user_password';
+GRANT ALL PRIVILEGES ON database_name.* TO 'garrypeffer'@'localhost';
+CREATE USER 'leonardobenitez'@'%' IDENTIFIED BY 'user_password';
+GRANT ALL PRIVILEGES ON database_name.* TO 'leonardobenitez'@'localhost';

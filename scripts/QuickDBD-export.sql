@@ -41,8 +41,8 @@ CREATE TABLE if not exists `location` (
     `Region` tinytext  NOT NULL ,
     `SubRegion` tinytext  NOT NULL ,
     `StudyArea` tinytext  NOT NULL ,
-    `Latitude` double(10,5)  NOT NULL ,
-    `Longitude` double(10,5)  NOT NULL ,
+    `Latitude` varchar(10)  NOT NULL ,
+    `Longitude` varchar(10)  NOT NULL ,
     `Management` tinytext  NOT NULL ,
     PRIMARY KEY (
         `LocationID`
@@ -57,16 +57,3 @@ REFERENCES `location` (`LocationID`);
 
 ALTER TABLE `fishinfo` ADD CONSTRAINT `fk_fishinfo_SurveyIndex` FOREIGN KEY(`SurveyIndex`)
 REFERENCES `survey` (`SurveyIndex`);
-
-#### CREATE USERS WITH PERMISSIONS ####
-
-CREATE USER 'reefsurveyadmin'@'%' IDENTIFIED BY 'user_password';
-GRANT ALL PRIVILEGES ON *.* TO 'database_user'@'loclhost';
-CREATE USER 'newuser'@'%' IDENTIFIED BY 'user_password';
-GRANT ALL PRIVILEGES ON *.* TO 'database_user'@'localhost';
-CREATE USER 'newuser'@'%' IDENTIFIED BY 'user_password';
-GRANT ALL PRIVILEGES ON *.* TO 'database_user'@'localhost';
-CREATE USER 'newuser'@'%' IDENTIFIED BY 'user_password';
-GRANT ALL PRIVILEGES ON *.* TO 'database_user'@'localhost';
-CREATE USER 'newuser'@'%' IDENTIFIED BY 'user_password';
-GRANT ALL PRIVILEGES ON *.* TO 'database_user'@'localhost';

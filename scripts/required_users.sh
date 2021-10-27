@@ -1,6 +1,2 @@
-!#/usr/bin/bash
-
-CREATE USER 'newuser'@'%' IDENTIFIED BY 'user_password';
-CREATE USER 'newuser'@'%' IDENTIFIED BY 'user_password';
-CREATE USER 'newuser'@'%' IDENTIFIED BY 'user_password';
-CREATE USER 'newuser'@'%' IDENTIFIED BY 'user_password';
+#!/usr/bin/bash
+cat required_users.sql | mysql -u admin -h mysql.ciazfzbygfyt.us-east-1.rds.amazonaws.com -P 3306 -ppassword
